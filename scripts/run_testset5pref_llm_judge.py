@@ -253,6 +253,16 @@ def extract_text(payload: Any) -> str:
         raise ValueError(f"Unsupported response type: {type(payload).__name__}")
     if payload.get("error"):
         raise RuntimeError(f"API error: {payload}")
+    code = payload.get("code")
+    if code is not None and code != 200:
+        raise RuntimeError(f"API error (code={code}): {payload}")
+    results = payload.get("results")
+    if isinstance(results, list) and results:
+        first = results[0]
+        if isinstance(first, str) and first.strip():
+            return first
+        if isinstance(first, (dict, list)):
+            return extract_text(first)
     for key in ("text", "output_text", "content", "response", "result", "answer"):
         value = payload.get(key)
         if isinstance(value, str):

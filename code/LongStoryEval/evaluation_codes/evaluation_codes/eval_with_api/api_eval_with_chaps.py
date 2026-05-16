@@ -56,6 +56,16 @@ def extract_response_text(response_data):
         return response_data
     if not isinstance(response_data, dict):
         raise ValueError(f"Unsupported response type: {type(response_data).__name__}")
+    code = response_data.get("code")
+    if code is not None and code != 200:
+        raise ValueError(f"API error (code={code}): {response_data}")
+    results = response_data.get("results")
+    if isinstance(results, list) and results:
+        first = results[0]
+        if isinstance(first, str) and first.strip():
+            return first
+        if isinstance(first, dict):
+            return extract_response_text(first)
     try:
         value = response_data["choices"][0]["message"]["content"]
         if isinstance(value, str):

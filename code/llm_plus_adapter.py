@@ -123,6 +123,16 @@ def extract_text(data: Any) -> str:
         raise RuntimeError(f"Unsupported llm-plus response type: {type(data).__name__}")
     if data.get("error"):
         raise RuntimeError(f"LLM-plus API error: {data}")
+    code = data.get("code")
+    if code is not None and code != 200:
+        raise RuntimeError(f"LLM-plus API error (code={code}): {data}")
+    results = data.get("results")
+    if isinstance(results, list) and results:
+        first = results[0]
+        if isinstance(first, str) and first.strip():
+            return first
+        if isinstance(first, dict):
+            return extract_text(first)
     try:
         value = data["choices"][0]["message"]["content"]
         if isinstance(value, str):

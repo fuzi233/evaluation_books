@@ -1,0 +1,25 @@
+I name our home Flatland not out of any local custom, but to make its rules plain to you, lucky readers privileged to live and move in the full three dimensions of Space.
+
+Picture an endless, perfectly smooth sheet of paper. On its surface, all kinds of shapes — straight Lines, Triangles, Squares, Pentagons, Hexagons, every polygon you can imagine — are not stuck fixed to their spots. They glide freely across the face of that sheet, or even half-submerged in its thin surface, but none of them can ever rise even a hair's breadth above the sheet, or sink below it. They are a little like the dark shadow figures you see cast on a wall, but solid, sharp, their edges glowing faintly with light. That is my country. Those are my people. Only a few years back, I would have called that our entire universe. But now my eyes have been opened to truths far bigger than our two little dimensions.
+
+In a world like that, you can guess instantly there is no such thing as what you Spaceland folks call a "solid" object. But I would wager you are already assuming we can look across our surface and tell a Triangle apart from a Square, clear as day, all their distinct angles and sides on display? You would be dead wrong. We see nothing of the sort. There is no shape, no corner, no angle visible to us at all — not ever. All we can see, every single thing that meets our eyes, is a straight line. Let me show you why that has to be true.
+
+Take a round penny, set it dead center on your Spaceland table. Lean over it, look straight down. It looks like a perfect circle, obviously. Now slowly edge back toward the table's far edge, lower your eye little by little, until you are almost level with the tabletop. Watch that circle turn first into a wide oval, then a thinner one, thinner still — until the very second your eye is exactly, perfectly level with the table's surface, that penny stops looking like a curved shape entirely. To you now, it is nothing more than a thin unbroken straight line. The exact same thing happens if you lay a pasteboard triangle, or a square, or any other flat figure on that table. Once your eye is flush with the table's surface, you can't perceive the shape at all. All you see is a straight line.
+
+Take our most respectable tradesman, for example: an equilateral Triangle, the standard upstanding middle-class citizen of Flatland. If you hovered over him from your 3D space, you would see the familiar three-sided shape, wide base, equal angles. If you knelt down and got your eye almost to the table level, he would look like a thin, tapered line with a little blur of depth to it. But if your eye is fully level with the surface — the way every single Flatlander sees every other thing, all the time — there is no taper, no angle, no shape. There is only one straight, glowing edge.
+[Illustrative ASCII reference:
+(1) Full top-down Spaceland view of the Tradesman:
+\ /
+/   \
+/     \
+(2) Near-table edge partial view:
+--__   __--
+---
+(3) True Flatland level view:
+_________]
+
+I heard all about your Spaceland sailors when I visited your world, you know. They run into the exact same effect when they are out on the open ocean, staring at a distant coastline on the horizon. That far-off shore might be full of bays and headlands, jagged cliffs and soft sandy coves, every sort of twist and indent imaginable. But from far enough away, unless the sun hits it just right to carve those shapes out with light and shadow, they can't see any of that complexity. All they see is one unbroken grey line stitched across the blue of the sea.
+
+That is exactly what we see, every single day, when one of our neighbors walks toward us. We have no sun hanging above our world, no light source that can cast shadows to show us depth or shape. So when a friend approaches, the line we perceive of them just grows longer. When they walk away, it shrinks shorter. But no matter if that friend is a lowly straight Line (our women), a sharp isosceles Triangle (our working class), a Square, a Pentagon, a Hexagon, or even a perfect Circle high up in our priestly class — they never look like anything but a straight line.
+
+You are probably wondering, how on earth do we ever tell each other apart under these weird, limiting conditions? That is a very fair question, but it will make far more sense once I have walked you through the full details of who the people of Flatland are, and how our society works. I will set that question aside for now, and start by telling you a little bit about our climate, and the houses we build to live in, on that endless flat sheet that is our home.

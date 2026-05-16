@@ -1,0 +1,21 @@
+I name our world *Flatland* not for our own sake, but for yours—you who dwell in Space, blessed with dimensions beyond our own. Picture, if you will, an endless plane where shapes—Lines, Triangles, Squares, Pentagons, and more—glide freely across its surface, bound to it as shadows are bound to light. Yet these are no mere phantoms; they are solid, their edges faintly aglow. So it is with my homeland and its people. Once, I would have called it my *universe*, but time and revelation have lifted my sight to realms unseen before.
+
+Here, you must understand, nothing of what you call *solid* can exist. You might assume we discern our brethren by their forms—Triangles from Squares, Pentagons from Hexagons—but no. To us, all is Line. Allow me to prove it.
+
+Place a coin upon your table and gaze down upon it. From above, it is a perfect circle. Now retreat to the table’s edge, lowering your eye until it aligns with the surface—until you, like us, see only as a Flatlander sees. The circle narrows, compressing into an oval, then—when your eye meets the plane—into a mere sliver of light: a Line. The same holds true for any shape—a Triangle, a Square—carved from paper. At our level, all depth collapses. A respectable Tradesman, an equilateral Triangle, appears first as his true form (Fig. 1), then as a jagged silhouette (Figs. 2–3), and finally, when viewed edge-on, as nothing but a straight stroke.
+
+[Illustration 1]
+[ASCII approximation]
+(1) __________
+(2) ___________
+(3) _________
+\ /
+--__ __--
+---
+\ /
+-
+\/
+
+I have heard your sailors know something akin when they spy distant shores. A coastline may twist with coves and cliffs, yet from afar, it is but a smudge on the horizon—a single, unbroken thread. So it is for us. We have no sun to cast revealing shadows, no light to betray a shape’s truth. A comrade approaches; his Line swells. He retreats; it dwindles. But Line he remains, be he Circle or Polygon.
+
+You might wonder how we know one from another under such tyranny of geometry. But that answer belongs to the tale of Flatland’s people—a tale for another time. For now, let me speak of our land’s climate and the dwellings within it.

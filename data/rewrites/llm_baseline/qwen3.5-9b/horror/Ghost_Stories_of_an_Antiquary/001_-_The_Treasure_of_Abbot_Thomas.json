@@ -1,0 +1,21 @@
+{
+  "model_name": "qwen3.5-9b",
+  "generation_model": "qwen3_5_9b",
+  "method": "llm",
+  "category": "horror",
+  "book_index_in_category": 2,
+  "book_name": "Ghost Stories of an Antiquary",
+  "chapter_id": "001_-_The_Treasure_of_Abbot_Thomas",
+  "chapter_name": "001 - The Treasure of Abbot Thomas",
+  "preference_id": "000002",
+  "preference_path": "/data5/YuhangFu/dist/llm_rag_gen_release_testset5pref_20260509/test_preferences/modeled_user_data_append_generated_000002.json",
+  "preference_text": "{\"basic_information\":\"\",\"general_preference\":\"\",\"specific_preference\":\"\"}",
+  "preference_summary": "",
+  "source_text": "The Treasure of Abbot Thomas\n\n\n\nIf anyone is curious about my local settings, let it be recorded that\nSt Bertrand de Comminges and Viborg are real places: that in “Oh,\nWhistle, and I’ll Come to You” I had Felixstowe in mind. As for the\nfragments of ostensible erudition which are scattered about my pages,\nhardly anything in them is not pure invention; there never was,\nnaturally, any such book as that which I quote in “The Treasure of\nAbbot Thomas”. “Canon Alberic’s Scrap-book” was written in 1894 and\nprinted soon after in the _National Review_, “Lost Hearts” appeared in\nthe _Pall Mall Magazine_; of the next five stories, most of which were\nread to friends at Christmas-time at King’s College, Cambridge, I only\nrecollect that I wrote “Number 13” in 1899, while “The Treasure of\nAbbot Thomas” was composed in the summer of 1904.\n\nM. R. JAMES",
+  "prompt": "Rewrite the source chapter for the target reader.\n\nMetadata:\n{\"genre\":\"horror\",\"book\":\"Ghost Stories of an Antiquary\",\"chapter\":\"001 - The Treasure of Abbot Thomas\",\"chapter_order\":1,\"preference_id\":\"000002\"}\n\nContinuity context:\n{\"book_title\":\"Ghost Stories of an Antiquary\",\"chapter\":\"001 - The Treasure of Abbot Thomas\",\"genre\":\"horror\",\"available_source_sections\":[\"001 - The Treasure of Abbot Thomas\"],\"source_excerpt_scope\":\"current story/chapter excerpt only\",\"source_excerpt_chars\":843,\"previous_chapter_context_available\":false,\"continuity_note\":\"This run rewrites each story/chapter as an independent target. Use the provided source chapter as the primary canon reference and do not continue beyond it.\"}\n\nReader preference profile:\n{\"basic_information\":\"\",\"general_preference\":\"\",\"specific_preference\":\"\"}\n\nSource chapter:\nThe Treasure of Abbot Thomas If anyone is curious about my local settings, let it be recorded that St Bertrand de Comminges and Viborg are real places: that in “Oh, Whistle, and I’ll Come to You” I had Felixstowe in mind. As for the fragments of ostensible erudition which are scattered about my pages, hardly anything in them is not pure invention; there never was, naturally, any such book as that which I quote in “The Treasure of Abbot Thomas”. “Canon Alberic’s Scrap-book” was written in 1894 and printed soon after in the _National Review_, “Lost Hearts” appeared in the _Pall Mall Magazine_; of the next five stories, most of which were read to friends at Christmas-time at King’s College, Cambridge, I only recollect that I wrote “Number 13” in 1899, while “The Treasure of Abbot Thomas” was composed in the summer of 1904. M. R. JAMES\n\nReturn only the rewritten chapter text.",
+  "generated_text": "I cannot rewrite this chapter because the provided source text consists entirely of authorial notes regarding publication dates, locations, and the fictional nature of the references within the stories, rather than the narrative content of \"The Treasure of Abbot Thomas\" itself. To fulfill your request for a horror story rewrite, I would need the actual plot details, characters, and events from the original tale.",
+  "status": "success",
+  "error": "",
+  "source_path": "/data6/ra_2266/Assets/Test_book/split_version/horror/Ghost Stories of an Antiquary/001 - The Treasure of Abbot Thomas.txt",
+  "created_at": 1778488544
+}

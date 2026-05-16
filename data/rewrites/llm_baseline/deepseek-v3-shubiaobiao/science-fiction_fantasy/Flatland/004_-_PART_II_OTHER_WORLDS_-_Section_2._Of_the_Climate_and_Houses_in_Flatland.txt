@@ -1,0 +1,24 @@
+Like your world, ours is divided into four cardinal directions: North, South, East, and West. Yet without a sun or stars to guide us, we cannot rely on the heavens for orientation. Instead, we are governed by a Law of Nature—a subtle but persistent pull toward the South. In milder regions, this force is feeble enough that even a woman of decent health can walk a fair distance northward without strain. Still, its presence is enough to serve as a compass for most of Flatland.
+
+Rain, which falls predictably from the North, further aids our navigation. In towns, the alignment of houses—their walls running predominantly North and South—shields us from the downpour with their sloping roofs. In the countryside, where buildings are sparse, the trunks of trees offer rough guidance. All told, we seldom lose our way.
+
+That said, there are times when even I, stranded in some barren stretch where neither house nor tree stands as witness, have been forced to halt for hours, waiting for the rain to reveal true North. The Southern pull weighs most heavily on the frail—particularly women of delicate constitution—so it is a mark of courtesy to yield the North side of the path to a lady. A difficult feat, I admit, when vigor clouds one’s sense of direction.
+
+Our homes admit no windows, for light in Flatland is a ceaseless mystery. It reaches us indoors and out, day and night, with no discernible source. Scholars once debated its origin with such fervor that our asylums overflowed with the minds shattered by the pursuit. When taxation failed to curb these inquiries, the Legislature banned them outright. And yet—irony of ironies—I alone know the truth. I, who have glimpsed the secrets of Space and the radiance of the Third Dimension, am dismissed as a madman among madmen. But enough of this bitterness; let me speak instead of our dwellings.
+
+The pentagon is the most favored shape for houses, as shown in the accompanying figure. Its two Northern sides form the roof, typically doorless. A small door on the East admits women; a larger one on the West welcomes men, while the Southern side remains sealed. Square and triangular houses are forbidden—and for good reason. Their sharper angles pose a hazard to any careless traveler who might stumble upon them in the dim glow of our world. Since the eleventh century, triangular structures have been outlawed save for fortifications and state buildings, where public caution is warranted.
+
+[Illustration 2]
+[ASCII approximation]
+```
+/ \
+/   \
+/     \
+/       \
+\_       _/
+Men's door
+_ Women's door _
+\___________/
+```
+
+Squares, though taxed to discourage their use, persisted until three centuries later, when lawmakers decreed that in any town of ten thousand or more, the pentagon’s gentler angles were the minimum permitted for safety. Now, even rural areas have embraced this design, though very rarely, in some forgotten corner, an antiquarian might still uncover the relic of a square house—a curiosity of a bygone age.

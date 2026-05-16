@@ -1,0 +1,878 @@
+If my dear friend from Flatland still possessed the sharp mental vigor he held when he first penned these memoirs, I would not need to speak for him here. Yet, he asks me to address three matters on his behalf: first, to thank the readers and critics of Spaceland whose enthusiastic reception has necessitated this second printing; second, to offer apologies for various errors and misprints (though he claims partial blame for none of them); and third, to clarify a few misunderstandings regarding his arguments.
+
+However, the man who wrote the original text is not the same as the one seeking this revision. Seven years of solitary confinement, compounded by the crushing weight of universal skepticism and ridicule, have worn down his spirit. Coupled with the inevitable decline of old age, these hardships have eroded many of the specific concepts and technical terms he learned during his brief exile in Spaceland. Consequently, he has asked me to respond to two primary objections raised against his work: one intellectual, the other moral.
+
+The first objection is this: A Flatlander, observing a Line, sees something that must possess *thickness* to be visible to the eye, not merely length. Therefore, it is argued, Flatlanders must admit that their world possesses a third dimension—however slight—that makes beings "high" as well as long and broad. To Spacelanders, this argument is nearly irrefutable, and I must confess that upon hearing it initially, I found myself at a loss for a rebuttal.
+
+Yet, my aged friend's response strikes me as definitive.
+
+"I concede," he told me, "the factual basis of your critic's claim, but I reject his conclusion. It is undeniable that within Flatland exists a Third Dimension, unrecognized by us, which we might term 'Height,' just as it is true that within Spaceland exists a Fourth Dimension, currently unnamed by you, which I shall call 'Extra-Height.' However, just as you cannot perceive or measure your 'Extra-Height,' we cannot perceive or measure our 'Height.' Even I—who spent twenty-four hours in Spaceland and grasped the concept of Height—cannot now fully comprehend it through sight or pure logic; I can only grasp it through faith.
+
+"The reason is self-evident. A dimension implies direction, measurement, and the distinction between 'more' and 'less.' All lines in Flatland are equally and infinitesimally thick (or high). Because there is no variation in this attribute, our minds cannot conceive of it as a distinct dimension. No 'delicate micrometer,' as one overly eager Spaceland critic suggested, would help us; for we would not know *what* to measure, nor *in which direction*. When we see a Line, we see something Long and Bright. Brightness is essential to a Line's existence; without it, the line vanishes. Thus, whenever I attempt to explain this unrecognized dimension to my fellow Flatlanders, they simply ask, 'Do you mean Brightness?' When I insist, 'No, I mean a true spatial dimension,' they immediately counter, 'Then measure it, or tell us its direction.' And I am silenced, for I can do neither.
+
+"Only yesterday, the Chief Circle—our High Priest—visited the State Prison for his seventh annual inspection. He looked at me and asked, 'Are you any better?' I attempted to demonstrate that he, too, possessed 'Height,' alongside his known Length and Breadth, though he remained unaware of it. His reply was chilling: 'You claim I am "high"? Measure my height, and I will believe you.' Stumped, unable to meet his demand, I was crushed. He departed victorious.
+
+"Do this scenario still seem absurd? Imagine instead a visitor from the Fourth Dimension descending to visit you. They would say: 'Every time you open your eyes, you see a Plane (Two Dimensions) and infer a Solid (Three), but in reality, you also witness a Fourth Dimension—not color, not brightness, but a true dimension. Yet, I cannot show you its direction, nor can you measure it.' What would you think of such a guest? Would you not imprison them? That is my fate. Just as it is natural for Flatlanders to jail a Square for preaching the Third Dimension, it is equally natural for Spacelanders to jail a Cube for preaching the Fourth. Alas, how deeply rooted is the similarity among blind and persecuting humanity across all dimensions! Whether Point, Line, Square, Cube, or Hypercube, we are all prone to the same errors, all enslaved by the prejudices of our respective dimensional prisons, as one of your Spaceland poets wisely noted: 'One touch of Nature makes all worlds akin.'"
+
+*[Editor's Note: My author requests that I include here certain remarks inserted into his dialogue with the Sphere, which bear directly on this topic. These passages were previously omitted as tedious and unnecessary.]*
+
+Regarding this intellectual defense, I find it impregnable. However, I fear his answer to the second objection—the moral charge—is less clear. Critics have vehemently accused him of misogyny. Since this accusation comes largely from the larger half of the Spaceland population, I wish to address it as best I can.
+
+My friend is unfamiliar with the nuanced moral vocabulary of Spaceland, so a literal transcription of his defense would be unfair to him. Instead, acting as his interpreter, I summarize his evolution. During his seven-year imprisonment, his personal views on Women and the Isosceles (Lower Classes) shifted significantly. Privately, he now aligns with the Sphere's belief that Straight Lines hold superiority in many crucial aspects compared to Circles.
+
+Yet, writing as a historian, he feels compelled to identify with the prevailing views of Flatland—and indeed, traditional historians of Spaceland—as well. Until very recently, historical records in both realms rarely deemed the fates of women and the masses worthy of serious consideration. Furthermore, he seeks to distance himself from the circular, aristocratic leanings often attributed to him. While acknowledging the immense wisdom and generational dominance of the Circles over the multitude, he argues that the raw facts of Flatland speak for themselves: revolutions cannot always be quelled by bloodshed. Moreover, Nature itself has sentenced the Circles to infertility, condemning them to eventual extinction. As he puts it, "Herein I see the fulfillment of the Great Law of all worlds: while human wisdom believes it is forging one outcome, the wisdom of Nature compels it to produce another, and a vastly superior one."
+
+Finally, he begs his readers not to expect every trivial detail of Flatland to map perfectly onto Spaceland. Nevertheless, he hopes that, viewed as a whole, his work offers both amusement and profound suggestion to those Spacelanders of moderate and humble minds. These are the individuals who, when contemplating truths of supreme importance lying beyond direct experience, refuse to dismiss them with "This can never be," nor accept dogmatically that "It must be exactly thus, and we know everything about it."
+
+"Patience, little friend. The world is vast, and its dimensions are often hidden until we learn to look beyond the surface."
+
+In this realm of Flatland, existence is defined strictly by two coordinates: length and breadth. There is no height, no depth, no third dimension to offer refuge or perspective. We live on an infinite plane where every line segment stretches forever unless bounded by others. Our climate is uniform, governed solely by the angle at which lines intersect; our houses are simple polygons, their stability determined entirely by the number of sides they possess. A triangle is humble but sharp; a square is sturdy and common; a pentagon holds a place of minor nobility.
+
+The inhabitants of Flatland move with purpose along these flat axes. To recognize one another, we rely first on touch—a gentle tap against the side reveals the shape of our neighbor. But sight, too, has become a refined art. By observing how light reflects off our edges, we can deduce our status and identity without contact. Yet, irregular figures exist among us—those who lack symmetry or proper angles—and they are viewed with suspicion, often feared as chaotic anomalies that threaten the order of the plane.
+
+For centuries, we have practiced painting, attempting to capture the essence of shapes through color. However, this led to a dangerous sedition when some dared to claim that color was a fundamental property of reality rather than a mere decoration. The Universal Colour Bill was enacted to suppress this heresy, stripping away hue and enforcing a monochrome society where geometry alone defines truth.
+
+Our priests, clad in circles—the perfect figure with infinite sides—guard the Doctrine of Two Dimensions. They preach that any suggestion of a third dimension is blasphemy, a delusion born of ignorance. Their authority is absolute, rooted in the belief that perfection lies within the flatness of our world.
+
+But recently, strange visions have begun to plague my mind. I dreamt of a world called Lineland, where beings exist as mere points moving back and forth on a single line, unaware of anything beyond their forward and backward paths. I tried to explain the nature of Flatland to them, describing our width and length, but my words fell on deaf ears; to a point, all directions are indistinguishable except for the axis of motion.
+
+Then came a stranger from Spaceland—a being of such profound complexity that he appeared as a circle to my eyes, yet moved with a fluidity impossible for a flatlander. He spoke of a third dimension, a direction perpendicular to our own, into which we could step if only we knew how. At first, his words were met with ridicule and fear. When language failed him, he resorted to action, projecting shadows upon our plane that danced and shifted in ways no polygon could replicate.
+
+Through these demonstrations, I was transported briefly into Spaceland itself. There, I beheld wonders beyond comprehension: spheres rolling freely, cubes floating in voids, and creatures whose forms defied the rigid constraints of our two-dimensional logic. Though the Sphere showed me many mysteries, my desire for knowledge remained insatiable. Encouraged by these revelations, I returned to share what I had seen, even as the authorities sought to silence me.
+
+Now, I attempt to teach the Theory of Three Dimensions to my grandson, hoping to awaken his mind to possibilities beyond the flat horizon. So far, his understanding remains limited, much like mine once was. Undeterred, I seek other means to spread this liberating idea, knowing full well that in a world built on the illusion of completeness, the truth of higher dimensions may be the most radical revolution of all.
+
+I designate our realm *Flatland* not merely as a name we use, but as a descriptor essential for clarifying its true essence to you, my fortunate readers dwelling in the boundless expanse of *Space*. Envision a vast, infinite plane—a sheet of paper where straight lines, triangles, squares, pentagons, hexagons, and myriad other geometric forms drift freely across the surface. Crucially, these shapes possess no ability to rise above or sink below this plane; they exist strictly within it, resembling shadows cast upon a wall, yet possessing substance, hardness, and luminous edges. This mental image offers a remarkably accurate conception of my nation and its citizens. Once, I might have termed this entire existence "my universe," but recent revelations have expanded my perspective to comprehend dimensions beyond our own.
+
+In such a realm, it is logically impossible for anything of a "solid" nature to exist. One might reasonably assume, however, that despite this limitation, we could visually distinguish between the various figures—triangles, squares, and others—as they moved about. This assumption is fundamentally incorrect. We cannot see distinct shapes at all; rather, the only visual reality available to us consists entirely of straight lines. I shall demonstrate this necessity immediately.
+
+Place a coin upon the center of a table in Space and lean over it to gaze downward. To your eyes, suspended above the surface, the coin appears as a perfect circle. Now, draw back to the table's edge and gradually lower your viewpoint, aligning your eye closer and closer to the tabletop. As you descend, mimicking the condition of a Flatlander, the coin transforms from a circle into an increasingly elongated oval. Finally, position your eye precisely flush against the edge of the table. At this exact moment, the coin ceases to appear oval entirely; it resolves into a simple, straight line.
+
+The same phenomenon occurs with any shape cut from pasteboard, whether a triangle, square, or complex polygon. When viewed with the eye perfectly level with the surface, the object loses all definition of form and presents itself solely as a linear segment. Consider, for instance, an equilateral triangle, which among us signifies a tradesman of respectable standing. From a high vantage point, one perceives the full triangular geometry. As the observer lowers their gaze, the shape distorts. But when the eye rests completely on the plane—the sole mode of vision for Flatlanders—the triangle vanishes as a figure, leaving behind nothing but a straight line.
+
+When I resided in Spaceland, I observed that your sailors encounter a striking parallel during their voyages. When gazing upon a distant island or coastline stretching along the horizon, the intricate details of bays, headlands, and indentations remain invisible. Unless illuminated sharply by your sun to create contrast through light and shadow, the landmass appears merely as a continuous, grey line upon the water. This is precisely our experience in Flatland. There is no sun here, nor any lighting mechanism capable of casting shadows to reveal depth. Consequently, when a companion approaches, regardless of whether they are a triangle, square, pentagon, hexagon, or circle, they appear to us only as a straight line growing larger. As they recede, the line shrinks, yet it remains a line, devoid of angularity or curvature.
+
+You may naturally inquire how we manage to distinguish friends from strangers under such severe visual constraints. The answer to this profound question requires a deeper understanding of our society, which I shall address when describing the inhabitants themselves. For now, permit me to briefly touch upon the climate and architecture of our unique world.
+
+Just as with you, so too with us, there exist four cardinal points: North, South, East, and West. However, since we possess neither a sun nor any other celestial body, determining the direction of North is impossible through conventional observation. Instead, we rely upon a unique natural law governing our realm. There exists a constant gravitational pull toward the South. While this attraction is negligible in temperate zones—allowing even a woman of sound health to travel several furlongs northward without significant strain—it remains sufficiently potent to function as a reliable compass across most of our land. Furthermore, the rain, which descends at regular intervals exclusively from the North, serves as an additional navigational aid. Within our cities, the architecture itself provides orientation; our dwellings are constructed with side-walls aligned primarily North-South, ensuring that their roofs effectively shield inhabitants from northern precipitation. In the countryside, lacking built structures, the trunks of trees offer a similar, albeit rougher, guide. Consequently, we encounter far less disorientation than one might anticipate.
+
+Yet, in our milder regions where the southern pull is barely perceptible, I have found myself stranded in utterly desolate plains, devoid of both habitation and vegetation. On such occasions, I have been forced to stand motionless for hours, awaiting the arrival of the rain before resuming my journey. This force affects the frail, the elderly, and particularly delicate females with far greater severity than the robust males. Thus, it is considered a mark of refined breeding to yield the North side of the road to any lady encountered in the street—a courtesy that proves difficult to execute promptly when one is in vigorous health and struggling to distinguish between North and South amidst the confusion.
+
+Our houses contain no windows. For light permeates our existence uniformly, whether indoors or outdoors, by day or by night; its source remains entirely unknown to us. In ancient times, our scholars devoted considerable effort to investigating the origin of light, attempting various solutions that ultimately resulted only in overcrowding our institutions for the mentally disturbed. Following failed attempts to curb such inquiries via taxation, the Legislature recently enacted an absolute prohibition on the subject. Alas, I alone among the citizens of Flatland now grasp the true nature of this enigma. My understanding—that light originates from a third dimension—is unintelligible to my compatriots. They mock me, the solitary keeper of the secrets of Space and the theory of dimensional intrusion, treating me as the most deranged of the insane.
+
+Setting aside these painful diversions, let us return to our dwellings. The predominant architectural form is the pentagon, as illustrated below. The two northern sides, labeled RO and OF, constitute the roof and typically lack doors. The eastern wall features a small entrance reserved for women, while the western wall boasts a significantly larger doorway for men. The southern base, serving as the floor, is generally left without a door.
+
+Square and triangular residences are strictly prohibited. The acute angles inherent in squares—and even more so in equilateral triangles—pose a severe hazard. Since the outlines of inanimate objects like buildings appear dimmer than the distinct lines of living beings, there is a grave risk that the sharp corners of such structures could inflict serious injury upon an unsuspecting traveler who happens to collide with them. Recognizing this danger, laws banning triangular housing were established as early as the eleventh century of our era. Exceptions were granted solely for military necessities: fortifications, powder magazines, barracks, and other state facilities deemed unsuitable for casual public access.
+
+At that time, square houses remained legal throughout the land, though they were discouraged by a specific levy. Approximately three centuries later, legislation decreed that in any town exceeding a population of ten thousand, the pentagonal angle must be the minimum allowable for residential construction to ensure public safety. The wisdom of the populace has largely supported these legislative efforts; consequently, even in rural areas, the pentagonal design has completely supplanted all others. Today, one finds a square house only rarely, hidden away in some distant, backward agricultural district, preserved merely by an antiquarian's curiosity.
+
+The average adult citizen of Flatland measures roughly eleven inches in length or width, with twelve inches serving as the absolute limit. Among us, women exist solely as straight lines. Our soldiers and the lowest tier of laborers take the form of triangles possessing two equal sides, approximately eleven inches each, joined by a third side so minuscule—sometimes barely half an inch—that they create a vertex of terrifying acuteness. When these bases degrade further, shrinking to no more than one-eighth of an inch, these figures become nearly indistinguishable from the straight-line women; their points are so sharply defined that they appear merely as lines. We classify these specific triangles as *Isosceles*, a designation I shall retain throughout this account.
+
+Our middle class comprises equilateral triangles, those with three perfectly equal sides. Above them stand the professional men and gentlemen, represented by squares and pentagons—a category to which I, the narrator, belong. Rising further are the nobility, graded by increasing complexity: starting with hexagons (six-sided figures) and ascending through polygons with ever-greater numbers of sides until they achieve the prestigious title of "Polygonal." At the apex of society lies the Circular or Priestly order. These beings possess so many sides, each so infinitesimally small, that they appear indistinguishable from circles. This is the supreme caste.
+
+A fundamental law of nature governs our reproduction: a male child must possess exactly one more side than his father. Consequently, humanity naturally ascends the ladder of nobility with every generation. A square fathers a pentagon; a pentagon, a hexagon; and so forth. However, this progressive law holds true only for the tradesmen, rarely for soldiers, and almost never for the workmen. Lacking equal sides, these lower castes are scarcely deserving of the term "human figures." For them, the natural law is suspended; the son of an Isosceles triangle remains an Isosceles triangle.
+
+Yet, despair is not total for the Isosceles. Through a prolonged series of military victories or diligent, skilled labor, the more intellectually gifted artisans and soldiers often exhibit a subtle transformation: their narrow base widens slightly while their two longer sides contract. When priests arrange marriages between the children of these enlightened lower-class individuals, the resulting offspring increasingly resemble the ideal equilateral triangle. Though exceedingly rare given the vast population of Isosceles births, the production of a genuine, certified equilateral triangle from Isosceles parents occurs occasionally.
+
+*Note:* One might ask, "Why require certification? Does not the birth of a square son prove the father's regularity?" My answer is that no woman of standing will wed an uncertified triangle. While irregular triangles have occasionally produced square offspring, the defect usually resurfaces in the third generation, preventing advancement to the pentagonal rank or causing a regression to triangularity. Achieving a true equilateral birth demands not only strategic intermarriage but also decades of frugal living, rigorous self-discipline, and the steady cultivation of intellect across multiple generations. The birth of such a "True Equilateral" from humble roots triggers celebrations spanning dozens of miles. Upon passing a stringent inspection by the Sanitary and Social Board, the infant is ceremoniously elevated to the class of Equilaterals. Immediately thereafter, he is removed from his proud yet grieving biological family and adopted by a childless equilateral noble. An oath binds the adopter to sever all ties with the child's origins forever, fearing that mere exposure to his former environment might cause the newly formed organism to regress to its hereditary state through unconscious imitation.
+
+This phenomenon serves a dual purpose. It offers a glimmer of hope to the impoverished serfs, illuminating the bleak monotony of their lives, while simultaneously reassuring the aristocracy. The higher classes understand that these rare exceptions act as a vital buffer against revolution. If the masses were entirely devoid of ambition, they might find charismatic leaders capable of challenging the wisdom of the Circles. Instead, nature has ordained a Law of Compensation: as the working classes grow in intelligence, virtue, and knowledge, their defining acute angle diminishes, rendering them physically less threatening and closer to the harmless geometry of the equilateral triangle. Even within the most brutal soldier class—beings otherwise comparable to women in their lack of intellect—it is observed that as they develop the mental capacity to wield their formidable penetrating power effectively, their physical sharpness wanes. What a magnificent balance! What irrefutable evidence of the divine design behind our aristocratic hierarchy!
+
+Through the astute application of this natural law, Polygons and Circles routinely extinguish sedition in its infancy, capitalizing on the boundless optimism inherent in the human spirit. Furthermore, art aids the machinery of law and order. State physicians can artificially compress or expand the bodies of rebellious leaders to render them geometrically regular, instantly granting them entry into the privileged classes. Those deemed insufficiently advanced but hopeful are lured into State Hospitals for honorable lifelong confinement. Only the most obstinate, foolish, and hopelessly irregular face execution. Ultimately, the wretched, leaderless mob of Isosceles is either neutralized by the small contingent of loyalists maintained by the Chief Circle for such emergencies, or, more frequently, driven into internecine conflict by jealousies and suspicions skillfully incited by the ruling Cyclic faction, perishing under each other's sharp angles. Our historical records document no fewer than one hundred and twenty major rebellions, alongside two hundred and thirty-five minor uprisings—all concluded in this manner.
+
+If our sharply pointed Triangles of the Soldier class are formidable, it requires little inference to deduce that our Women are far more dangerous. While a Soldier is merely a wedge, a Woman is a needle—essentially pure point at both extremities. Combine this lethal geometry with the ability to render oneself practically invisible at will, and one realizes that a Female in Flatland is a force never to be trifled with.
+
+Perhaps my younger readers in Spaceland might wonder *how* a two-dimensional being achieves invisibility. The answer lies in perspective, requiring no complex machinery. Consider a needle placed on a table. Viewed from the side, its full length is visible; viewed from the tip, it appears as nothing but a tiny dot, effectively vanishing. So too with our Women. When their broad side faces us, we perceive a straight line—a distinct threat. When the end bearing their eye or mouth (which, in our dimension, serve as a single organ) turns toward us, we see only a brilliant, lustrous point, rendering them nearly invisible. Conversely, when their back is presented, appearing dull and dimmer than an inanimate object, their rear extremity functions as a natural "Invisible Cap."
+
+The peril posed by such entities should be obvious to anyone of average intellect in Spaceland. If the obtuse angle of a respectable middle-class Triangle can cause injury; if colliding with a Working Man results in a deep gash; if striking an Officer inflicts a grievous wound; and if a mere brush with the vertex of a Private Soldier risks death—then running into a Woman guarantees absolute and immediate destruction. Furthermore, given their tendency to vanish into visibility, avoiding collision becomes a near-impossible feat for even the most cautious citizen.
+
+Consequently, various states across Flatland have enacted strict laws to mitigate this existential hazard. These statutes are particularly rigorous in southern regions where gravity is stronger, causing inhabitants to move more erratically. The core of our Female Code generally includes three pillars:
+
+1.  **Restricted Entry:** Every dwelling must feature a dedicated eastern entrance used exclusively by Females. They must approach "in a becoming and respectful manner," strictly forbidden from using the western door reserved for Males.
+2.  **The Peace-Cry:** No Female may traverse any public space without continuously emitting a specific auditory signal—the "Peace-cry"—under penalty of death.
+3.  **Elimination of Volatility:** Any Female certified to suffer from conditions causing involuntary motion—such as St. Vitus's Dance, epileptic fits, or severe allergic reactions—is to be instantly destroyed. Some states go further, mandating that women constantly sway their backs right-to-left to ensure visibility, or require them to be escorted by a son, servant, or husband. Others confine women entirely within their homes except during religious festivals.
+
+However, the wisest legislators have recognized that excessive restriction breeds disaster. Over-confinement exasperates the female temperament, leading to domestic violence that often decimates entire villages in moments of collective outrage. Thus, the three laws above remain sufficient for stable societies. Ultimately, our greatest safeguard is not legislation, but self-preservation. A Woman can kill instantly with a backward thrust, but unless she can withdraw her stinging tip before the struggle ends, her own fragile form shatters.
+
+Moreover, the power of fashion aids us. In civilized states, rhythmic back-swaying is considered a mark of breeding, a natural instinct rather than a legal requirement. Ladies of high rank perform a modulated undulation of the spine, envied and emulated by wives of lesser geometric shapes—from the simple pendulum-like swing of the Equilateral to the aspirational movements of the Isosceles. Consequently, in households of status, this "back motion" is ubiquitous, granting husbands and sons immunity from invisible attacks.
+
+Do not mistake this for a lack of affection. Unfortunately, in the Frail Sex, the passion of the moment overrides reason. Deprived of angles, they possess no brain-power, lacking reflection, judgment, foresight, or memory. In a fit of fury, they recognize no distinctions or past grievances. I have witnessed a woman exterminate her entire household, only to ask thirty minutes later, after her rage had subsided, where her husband and children had gone. Therefore, a Woman must never be provoked while able to turn around. Once confined to apartments designed to deny her rotational freedom, she becomes harmless; unable to strike, she forgets threats and broken promises within minutes.
+
+Domestic life proceeds relatively smoothly, save for the lower military classes. Here, husbands' reliance on their sharp angles rather than diplomacy leads to catastrophe. Lacking the tact to retreat or the skill to offer lavish, soothing promises, they provoke their wives with bluntness outside the home and fail to retract their words immediately. The result is massacre—an outcome some Circles view providentially as a method of culling redundant populations and stifling revolution.
+
+Even in our most harmonious, circular families, life lacks the depth found in Spaceland. Safety comes at the cost of comfort. Harmony of taste is rare. An ancient instinct dictates that mothers and daughters must constantly face their husbands and male guests; for a lady of distinction to turn her back is deemed a portent of lost status. While working-class wives enjoy brief periods of silence while facing inward toward their chores, the homes of the elite are perpetually noisy. With eyes and mouths fixed eternally on the master, the stream of feminine discourse is relentless. The skills required to dodge a physical sting are useless against a verbal barrage. Since a Woman has nothing meaningful to say and no moral constraint to stop her, many cynical men prefer the silent danger of the invisible sting to the deafening noise of her open end.
+
+To the citizens of Spaceland, the plight of our Women seems tragic, and rightly so. While a lowly Isosceles male might hope to improve his angle and elevate his caste, no Woman harbors such aspirations. "Once a Woman, always a Woman" is a decree of nature, seemingly suspending the laws of evolution against her. Yet, we find solace in this prearranged design: having no hopes for the future, they possess no memory to recall past humiliations and no foresight to anticipate new ones. Their misery is total, but so is their oblivion.
+
+To you, inhabitants of the Third Dimension, who enjoy the luxury of shadow as well as light, possess the dual vision required to grasp perspective, and delight in a spectrum of colors, how can I possibly convey the sheer impossibility we face in trying to recognize one another? Remember what I have told you: whether animate or inanimate, regardless of our true shape, everything in Flatland presents itself to our gaze merely as a straight line. If everyone looks exactly the same, how do we tell one from another?
+
+The solution lies in three distinct methods.
+
+First, we rely upon **Hearing**. This sense is far more refined in us than yours, allowing us not only to identify friends by their voices but also to distinguish between the three lowest castes: the Equilateral Triangle, the Square, and the Pentagon. I make no such claim regarding the Isosceles, whose voices are too variable. However, as we climb the social ladder, auditory identification becomes increasingly unreliable. Voices tend to blur together, and the ability to discern subtle tonal differences is considered a trait of the common folk, rarely cultivated among the aristocracy. Consequently, whenever deception is suspected, we abandon sound entirely. Furthermore, among the lower orders, vocal cords are often overdeveloped relative to our hearing capabilities. An Isosceles can easily mimic the tone of a Polygon, and with sufficient training, even feign the voice of a Circle. Thus, hearing alone is insufficient for security.
+
+Therefore, we turn to the second, and most common, method: **Touch** or *Feeling*. For women and the lower classes, this is the primary test of identity, especially when determining someone's rank rather than their specific individuality. Just as introductions in your world involve presenting oneself, here the standard greeting—particularly among older gentry in rural districts—is, *"Permit me to ask you to feel and be felt by my friend Mr. So-and-so."* In the bustling cities and among merchants, the phrase "be felt by" is dropped, leaving simply, *"Let me ask you to feel Mr. So-and-so,"* with the mutual nature of the action implied. Even the most modern, hurried young gentlemen have shortened this further, using "to feel" as a technical term meaning "to recommend for the purpose of feeling and being felt." Indeed, current slang in high society permits the barbarism, *"Mr. Smith, permit me to feel Mr. Jones."*
+
+Do not imagine, however, that this process is as laborious for us as it would be for you, nor that we must trace every side of a stranger to classify them. Through rigorous schooling and lifelong practice, we can instantly differentiate the sharp corners of an equilateral triangle, square, or pentagon by touching just a single angle. The obtuse, dull vertex of an Isosceles is equally obvious to the slightest touch. Therefore, feeling one corner usually suffices to reveal a person's class, except when dealing with the higher nobility.
+
+There, the challenge intensifies. Even a Master of Arts at our University of Wentbridge may struggle to distinguish a ten-sided figure from a twelve-sided one. Few Doctors of Science can confidently and immediately tell the difference between a twenty-sided and a twenty-four-sided member of the aristocracy.
+
+Moreover, the procedure demands caution. As you recall from the laws governing women, improper handling during introduction can be fatal. The person being touched (*the Felt*) must remain absolutely motionless. A sudden jerk, a restless shift, or even a violent sneeze has proven deadly to the unsuspecting toucher (*the Feeler*), ending countless budding friendships prematurely. This risk is particularly acute among the lower-class Triangles. Their eyes are positioned so far from their apex that they cannot monitor the interaction occurring at their tip. Combined with their rough, insensitive natures, they lack the delicacy required for the highly organized Polygons. It is no surprise, then, that an involuntary head toss has previously cost the state a valuable life.
+
+My grandfather, a remarkably upright Isosceles who recently earned four of seven votes to advance to the status of an Equilateral, often recounted a tragedy involving his great-great-grandfather. That ancestor, a working man with an angle of precisely 59 degrees and 30 minutes, was suffering from rheumatism while being examined by a Polygon. Startled, he involuntarily thrust forward, piercing the nobleman diagonally. The resulting scandal, coupled with the shame of imprisonment, caused the family's genetic potential to regress. For five generations, their angles remained stuck at 58 degrees. Only after a long period did they recover the lost ground, reaching the full 60 degrees required to escape the Isosceles caste forever. One accidental movement during a simple introduction thus doomed a lineage for centuries.
+
+At this juncture, I anticipate the protest of my more enlightened readers: *"How can you Flatlanders know angles, degrees, or minutes? You see only a line; we see the inclination of two lines forming a corner. How can you discern what you cannot see?"*
+
+My answer is that while we cannot *see* angles, we can *infer* them with remarkable precision. Our sense of touch, honed by necessity and discipline, allows us to detect angular differences more accurately than your unaided sight. Furthermore, nature provides us with a built-in scale. By law, the brain of an Isosceles begins at half a degree and increases by half a degree per generation until it reaches the threshold of 60 degrees, granting freedom. Consequently, elementary schools across the land display specimens representing every half-degree increment from 0.5° up to 60°.
+
+Due to societal stagnation and the prolific birth rates of criminal and vagrant classes, there is a surplus of individuals with small angles. Most of these, lacking the intellect for war, are conscripted by the state as living teaching tools. Immobilized to prevent harm, they serve as static models in infant classrooms, allowing children of the middle class to learn the tactile nuances of geometry—a skill these specimens themselves lack. While some states feed these specimens for years, more progressive regions find it economically superior to provide no sustenance, replacing them monthly. This cycle lasts roughly the average lifespan of a criminal, balancing educational costs against the slight reduction in angular accuracy that occurs over time. Additionally, the constant rotation of these specimens contributes marginally to reducing the surplus population of low-angle Isosceles, a goal every statesman cherishes.
+
+While some school boards favor the cheaper, longer-lived specimens, I believe that in matters of education, expense is often the truest economy. Yet, I must not let political debates distract from my main point.
+
+It is evident that recognition by touch is far more reliable than recognition by sound. Nevertheless, despite its utility, the inherent dangers of physical contact mean that many in the middle and lower classes—and all members of the Polygonal and Circular orders—prefer a third method. The description of this final technique will be reserved for the following section.
+
+I stand ready to admit a glaring inconsistency. Earlier, I asserted that all figures in Flatland appear merely as straight lines, implying that visual distinction between social classes is impossible. Yet, now I must explain to my Spaceland critics how we *do* recognize one another by sight.
+
+If the Reader recalls the section on "Recognition by Feeling," they will note a crucial qualifier: that ability is universal only "among the lower classes." Visual recognition is the privilege of the higher castes and thrives exclusively in our temperate climates. This unique faculty exists solely because of the **Fog**. While you in Spaceland view fog as a blight—obscuring landscapes and sapping vitality—we regard it as a blessing nearly equal to air itself, the very nurse of our arts and parent of our sciences. Without this atmospheric veil, all lines would appear with identical clarity, rendering discrimination impossible. Indeed, in those desolate regions where the air is perfectly dry and transparent, such confusion reigns.
+
+However, where Fog abounds, objects at varying distances lose intensity differently. An object three feet away appears noticeably dimmer than one twenty-nine inches distant. Through rigorous training and constant observation of these gradients of light and shadow, we deduce the precise configuration of an approaching figure.
+
+Consider this practical example. Suppose I observe two figures approaching: a Merchant (an Equilateral Triangle) and a Physician (a Pentagon). How do I tell them apart?
+
+Imagine aligning my gaze to bisect the angle of the approaching stranger. My view sits squarely between the two sides closest to me. In the case of the Merchant, I perceive a single line where the center is brilliant, but the edges fade into darkness with alarming speed. His sides recede sharply into the mist, making his extremities vanish quickly. Conversely, the Physician presents a line where the center shines brightly, but the fading toward the edges is gradual. His sides penetrate deeper into the Fog, keeping his extremities significantly brighter than the Merchant's.
+
+Through this nuanced reading of light decay, the educated elite can distinguish between the middle and lowest orders with surprising accuracy. However, do not mistake this for simplicity. Life rarely offers static angles. If my father, the Triangle, approaches presenting a flat side rather than an angle, I am momentarily confused, unsure if he is a Triangle or a Woman (a Straight Line). Similarly, observing a Hexagon face-on reveals a complex interplay of bright central segments and dim peripheral lines that requires instant mental calculation.
+
+To navigate a crowded ballroom filled with rotating polygons of various ranks is a task that taxes even the sharpest intellect. It justifies the existence of our prestigious universities, where Static and Kinetic Geometry are taught to the elite. Only the wealthy and noble can afford the decades of study required to master this art. Even I, a respected mathematician and grandfather of two Hexagons, often feel bewildered amidst the swirling chaos of high-society gatherings. To a commoner or serf, such a scene is incomprehensible—a chaotic blur of shifting lights. Even a student versed in theory would struggle to move through such a crowd without accidentally colliding with superiors, a breach of etiquette punishable by shame, as these refined individuals possess an intuitive awareness of movement that the untrained lack.
+
+Ultimately, to behave with propriety in Flatland, one must essentially *be* a polygon.
+
+The mastery of Sight Recognition is honed by habit and strictly discouraged alongside the older method of "Feeling." Just as the deaf-mute in Spaceland fails to achieve true speech if reliant on gestures, the Flatlander who relies on touch never masters vision. Consequently, "Feeling" is banned among the upper classes. Children are sent directly to exclusive seminaries; to touch another person is a grave offense leading to expulsion. Among the poor, however, visual acumen remains an unattainable luxury. Their sons work from youth, gaining a natural, rapid adaptability that initially seems superior to the slow, deliberate progress of the scholar. Yet, once the scholar completes their university education, they undergo a transformation, overtaking the tradesman in every pursuit.
+
+There is a tragic underclass: those who fail the final university examination. Despised by the nobility for lacking their discipline, and looked down upon by the commoners for lacking their innate agility, they are trapped in limbo. Denied professional careers and struggling to form families due to fears of producing "irregular" offspring, they become the seedbed of rebellion. Some progressive statesmen argue that true mercy lies in their total erasure, proposing laws to imprison or silently eliminate those who fail the Final Test.
+
+But I fear I am drifting into the dangerous topic of Irregularities, a subject too vast and vital for this section.
+
+Throughout the preceding sections, I have operated on a premise—perhaps one that ought to have been established as a foundational axiom from the outset—that every inhabitant of Flatland possesses a Regular Figure, meaning a shape of consistent, symmetrical construction. In our world, a Woman is not merely a line; she must be a perfectly straight line. An Artisan or Soldier must possess two sides of equal length. A Tradesman requires three equal sides. Lawyers, to which I humbly belong, must have four equal sides. Generally speaking, within every Polygon, all sides must be identical in length. Naturally, the magnitude of these sides correlates with the individual's age: a female newborn measures approximately one inch, whereas a mature woman may stretch to a full foot. Regarding males across all classes, the sum of an adult's side lengths typically totals around two feet, though this dimension is secondary to the critical issue of equality.
+
+It requires little contemplation to realize that the entire edifice of Flatlandian social life rests upon this singular truth: that Nature decrees all figures must maintain equal sides. Were our sides unequal, our angles would inevitably follow suit. Under such conditions, the current method of identification would collapse. Instead of relying on a single visual estimation of an angle to discern a person's form, we would be compelled to physically trace every angle through the act of Feeling. Life, however, is too brief for such exhaustive verification. Consequently, the sciences and arts of Sight Recognition would vanish instantly; the skill of Feeling would perish shortly thereafter; social interaction would become fraught with danger or rendered impossible entirely; trust, foresight, and security would evaporate. No citizen could safely arrange the simplest of social engagements. Civilization would regress immediately into barbarism.
+
+Am I rushing my readers toward these inevitable conclusions? I believe a moment's reflection, supported by a single analogy drawn from daily existence, suffices to convince anyone residing in Spaceland that our entire societal structure is predicated on Regularity, or the Equality of Angles. Consider encountering two or three Tradesmen on the street. At a glance, you identify them by their characteristic angles and slightly dimmed sides, inviting them into your home for lunch. Today, you proceed with absolute confidence because everyone knows, to within an inch or two, the exact footprint of an adult Triangle. Now, imagine that your Tradesman drags behind his regular, respectable vertex a distorted parallelogram measuring twelve or thirteen inches diagonally. What becomes of such a monstrosity wedged firmly against your doorway?
+
+I risk insulting the intelligence of my audience by elaborating on details that should be self-evident to those accustomed to the laws of geometry. Clearly, measuring a single angle would no longer suffice under such dire circumstances; one's entire life would be consumed by the tactile surveying of acquaintances' perimeters. While the challenges of navigating a crowded street already test the wit of even a well-educated Square, imagine a scenario where no individual can calculate the Regularity of a single figure among them. Chaos and confusion would ensue. The slightest panic would result in severe injuries—or, given the presence of Women or Soldiers, potentially significant loss of life.
+
+Thus, expediency aligns with Nature in endorsing the seal of approval upon Regularity of form, and the Law has eagerly joined this consensus. In Flatland, "Irregularity of Figure" carries the same weight, or indeed greater significance, than a combination of moral corruption and criminality does in Spaceland, and is treated accordingly.
+
+There are, admittedly, proponents of paradoxical views who argue that no intrinsic link exists between geometric irregularity and moral failing. They claim that the "Irregular" is shunned by parents from birth, mocked by siblings, neglected by servants, and viewed with suspicion by society. Excluded from positions of responsibility, their movements are monitored by the police until adulthood, at which point they face a grim choice: destruction if their deviation exceeds a fixed margin, or imprisonment in a government office as a seventh-class clerk. Denied marriage, forced into menial labor for a pittance, living and working under constant surveillance, and even taking vacations under strict watch—it is no wonder that human nature, even in its purest forms, becomes embittered and twisted by such an environment.
+
+While this reasoning appears plausible, it fails to persuade me, nor has it swayed the wisest statesmen, that our ancestors erred in establishing the axiom that tolerating Irregularity compromises the safety of the State. Undoubtedly, the life of an Irregular is harsh; yet the interests of the majority demand that it remain so. If individuals with triangular fronts and polygonal backs were permitted to exist and propagate an increasingly irregular lineage, what fate awaits the arts of civilized life? Must our houses, doors, and churches be reconstructed to accommodate such anomalies? Must ticket collectors measure every patron's perimeter before granting entry to theaters or lecture halls? Should an Irregular be exempted from military service? If not, how can we prevent them from bringing devastation to their comrades-in-arms? Furthermore, what irresistible temptation to fraud would such a creature face? How easily could one enter a shop with a polygonal front forward, deceiving a trusting merchant into supplying unlimited goods!
+
+Let advocates of so-called philanthropy plead as they wish for the repeal of these penal laws regarding Irregularity. For my part, I have never encountered an Irregular who did not embody exactly what Nature seemingly intended: a hypocrite, a misanthrope, and, within the limits of their capability, a perpetrator of every conceivable mischief.
+
+This does not imply that I endorse the extreme measures taken by certain nations, where infants deviating by half a degree from perfect angularity are summarily destroyed at birth. Many of our greatest geniuses suffered deviations as severe as, or exceeding, forty-five minutes in their earliest years; their premature deaths would have constituted an irreplaceable loss to the State. Moreover, the medical arts have achieved glorious victories through compressions, extensions, trepanning, ligatures, and various dietary regimens that have partially or wholly corrected Irregularity.
+
+Therefore, advocating for a *Via Media*, I propose no rigid or absolute boundary. However, at the stage when the body begins to set and the Medical Board deems recovery unlikely, I suggest that the Irregular offspring be painlessly and mercifully extinguished.
+
+If my readers have kept pace with my narrative thus far, they will find little surprise in learning that existence in Flatland is, by many measures, profoundly monotonous. I am not referring to the absence of conflict—battles, conspiracies, political upheavals, and factional strife abound, providing a dramatic texture that history books elsewhere might envy. Nor should I dismiss the unique intellectual thrill derived from the constant interplay between the mysteries of daily life and the rigid laws of geometry; this fusion offers a sharp, verifiable zest for living that your inhabitants of Spaceland struggle to imagine. However, when viewed through the lens of aesthetics and art, our reality is starkly barren. How can it be otherwise? Our entire visual universe consists merely of lines. Our landscapes, historical scenes, portraiture, flora, and still lifes offer no depth, no volume, and no variety save for subtle shifts in shade and darkness.
+
+It was not always this way. According to tradition, during a fleeting epoch spanning perhaps half a dozen centuries, color once bathed the lives of our ancestors in a transient, radiant glory. Legend attributes the discovery of primitive pigments and the rudiments of painting to a singular visionary—a figure variously identified as a Pentagon—who began by adorning his own dwelling, then his servants, eventually turning his hand to his father, sons, and grandsons, finally applying the vibrant touch to himself. The dual benefits of utility and beauty quickly captivated the populace. Wherever Chromatistes—the name by which historians universally recognize this pioneer—displayed his variegated form, he commanded instant attention and profound respect. In a world where identity is often ambiguous, no one needed to guess whether he faced forward or backward; his neighbors could discern his orientation instantly, eliminating the need for awkward calculations or physical jostling. Furthermore, his voice was spared the exhausting labor required by us colorless Squares and Pentagons to announce our presence amidst crowds of oblivious Isosceles.
+
+The trend ignited like wildfire. Within a week, every Square and Triangle in the region had emulated Chromatistes, leaving only a handful of conservative Pentagons behind. Within months, even the Dodecagons had succumbed to the innovation. Less than a year passed before the practice permeated the realm, sparing only the highest echelons of the nobility. Naturally, the custom radiated outward from Chromatistes' district until, within two generations, the only beings left untouched by pigment were the Women and the Priests.
+
+Here, nature seemed to raise an impassable barrier, resisting the extension of this revolution to these two distinct classes. For the Innovators, multiplicity of sides served as the perfect justification: *"Nature intends distinction of sides to imply distinction of colors"* became the mantra that swept through towns, converting populations en masse. Yet, this logic fell flat for the Priests and the Women. The latter possess but a single side—or, strictly speaking, *no* sides at all. The former, claiming the status of true Circles rather than polygons with infinite microscopic edges, boasted of possessing no sides either, existing instead as a continuous circumference. Consequently, neither group felt bound by the axiom linking sides to hue. While the rest of society surrendered to the allure of bodily decoration, the Priests and Women remained the sole guardians of the unpainted state.
+
+Though labeled immoral, licentious, anarchic, and unscientific, those ancient days of the Color Revolt represented the glorious infancy of art in Flatland—an age that, tragically, never matured into adulthood nor even bloomed into youth. Life itself was then a delight, for to exist was to perceive. Social gatherings were spectacles of joy; the rich tapestry of hues filling a church or theater occasionally overwhelmed our greatest scholars and performers. Most magnificent of all was the legendary splendor of a military parade. Imagine a line of twenty thousand Isosceles pivoting in unison, swapping the somber black of their bases for blazing oranges and purples along their flanks; the militia of Equilateral Triangles shimmering in red, white, and blue; the Square artillerymen swirling in mauve, ultramarine, gamboge, and burnt umber around their vermilion cannons; and the dazzling flash of five-colored and six-colored Pentagons and Hexagons darting across the field as surgeons, geometers, and aides-de-camp. These sights were so overwhelming that legend holds an illustrious Circle, blinded by the artistic majesty of his troops, discarded his marshal's baton and royal crown to take up an artist's pencil forever.
+
+The sensory richness of that era is further evidenced by the language itself. The speech of ordinary citizens during the Color Revolt appears to have been infused with a deeper vibrancy of thought and expression. We owe our finest poetry and the rhythmic cadences remaining in our modern scientific discourse directly to that luminous, chromatic dawn.
+
+While the intellectual arts were rapidly crumbling, the specific skill of Sight Recognition became obsolete and ceased to be practiced. Consequently, the rigorous studies of Geometry, Statics, Kinetics, and related disciplines, once revered at our universities, quickly fell into disrepute and neglect. Similarly, the lesser art of Feeling suffered the same fate within our elementary schools.
+
+The Isosceles classes, claiming that specimens were no longer required, grew increasingly insolent. Refusing to pay the traditional tribute owed by criminal elements to support education, they leveraged their newfound immunity from this burden—which had previously served to tame their brutality and reduce their numbers—to expand their ranks and arrogance annually. Meanwhile, soldiers and artisans began to loudly proclaim, with growing justification, that there was little distinction between them and the highest Polygon classes. Having been elevated to equality with the latter, they argued they could master life's complexities—whether static or kinetic—through the simple mechanism of Colour Recognition.
+
+Dissatisfied with the natural decline of Sight Recognition, revolutionaries boldly demanded the legal prohibition of all "monopolistic and aristocratic arts." They called for the abolition of endowments supporting Sight Recognition, Mathematics, and Feeling. Their argument escalated: since Colour, a force akin to a second nature, had erased the necessity for aristocratic distinctions, the law must follow suit. They insisted that all individuals and classes were now absolute equals, entitled to identical rights.
+
+Finding the higher orders hesitant, the revolutionary leaders pushed further. They eventually demanded that every class, including Priests and Women, submit to Colour by undergoing painting. When objections arose regarding the lack of sides in Priests and Women, the agitators countered that both Nature and expediency dictated that the front half of every human—the portion containing the eyes and mouth—must be distinguished from the rear half.
+
+Thus, a bill was presented to a special assembly of all Flatland states. It proposed that in every Woman, the anterior semicircle (containing the face) be painted red, and the posterior semicicle green. Priests were to receive the same treatment: red on the forward-facing arc where the eyes and mouth resided, and green on the hindward arc.
+
+This proposal displayed considerable cunning. Though it did not originate from an Isosceles—who lacked the angularity to conceive such sophisticated statecraft—it was devised by an Irregular Circle spared from death in childhood solely to unleash desolation upon his nation and countless followers.
+
+On one level, the plan sought to win over the female population across all classes. By granting Women the exact same color scheme as Priests, the revolutionaries ensured that, depending on the viewing angle, a Woman would appear indistinguishable from a Priest. This prospect promised respect and deference, a lure impossible for the female sex to resist en masse.
+
+For those readers who might miss the visual trickery inherent in this legislation, consider the geometry:
+
+Imagine a Woman adorned per the new code: her front half red, her back half green. Viewed from the side, she presents a straight line, half red, half green.
+
+Now envision a Priest, whose mouth sits at point M, with his front semicircle (AMB) colored red and his hind semicircle green. The diameter AB separates the red from the green. If you observe this Great Man along the same straight line as his dividing diameter (AB), you perceive a straight line (CBD). One segment (CB) is red; the other (BD) is green.
+
+Though the Priest's line may be slightly shorter and fade more sharply toward its ends than a full-sized Woman's, the identical coloring creates an immediate impression of shared class. Amidst the societal decay threatening Sight Recognition—and considering that Women would quickly learn to soften their edges to mimic Circles—it becomes evident that the Colour Bill endangered the conflation of Priests with young Women.
+
+How enticing this confusion must have seemed to the Frail Sex! They delighted in the chaos it promised. At home, they could overhear political and ecclesiastical secrets meant for husbands and brothers, or even issue commands in the name of a priestly circle. Outdoors, the stark red-and-green combination, devoid of other hues, guaranteed endless errors among the populace, allowing Women to seize whatever deference the Circles lost. As for the scandal that might implicate the Circular Class in the frivolous conduct of Women, or the subsequent subversion of the constitution, the Female Sex showed no concern. Indeed, even within the households of the Circles, the Women championed the Universal Colour Bill.
+
+The bill's second objective was the gradual demoralization of the Circles themselves. Despite the general intellectual rot, the Nobility retained their pristine clarity and mental strength. Familiar from childhood with the total absence of Colour, they alone preserved the Sacred Art of Sight Recognition, gaining immense advantage from this rigorous intellectual training. Until the Colour Bill's introduction, the Circles had not only maintained their standing but widened their lead by abstaining from popular fashions.
+
+However, the crafty Irregular architect of this diabolical scheme aimed to strike simultaneously: lowering the hierarchy's status by forcing submission to the pollution of Colour, and destroying their domestic environment for Sight Recognition training. This would enfeeble their intellects by stripping away their pure, colorless homes. Once tainted by chromatic influence, every parental and childish Circle would corrupt one another. An infant Circle would struggle merely to distinguish father from mother—a problem easily corrupted by maternal deception, thereby shaking the child's faith in logic itself.
+
+Gradually, the intellectual luster of the Priestly Order would dim, paving the way for the total destruction of the Aristocratic Legislature and the subversion of our privileged classes.
+
+The campaign for the Universal Colour Bill raged for three years, and until its final hour, it appeared inevitable that chaos would reign supreme. A massive levy of Polygons, conscripted to fight as individual soldiers, was obliterated by a superior force of Isosceles Triangles, while the Squares and Pentagons stood aloof in neutrality. Yet, the tragedy deepened within the nobility itself. Some of the most brilliant Circles became victims of domestic fury. Blinded by political hatred, the wives of many distinguished households exhausted their husbands with pleas to abandon their resistance to the Colour Bill. Where these entreaties failed, despair drove mothers to slaughter their own children and spouses before taking their lives in the ensuing carnage. History records that during this turbulent triennium, no fewer than twenty-three Circles perished in the fires of marital discord. The peril was absolute; it seemed the Priesthood faced only two choices: total submission or mutual extermination.
+
+Then, abruptly, the tide of history shifted due to a singular, picturesque incident—one that statesmen ought always to anticipate, for such events possess an absurdly disproportionate power to sway public sentiment. An Isosceles of the lowest caste, possessing a intellect barely exceeding four degrees, accidentally stained himself with the pigments of a tradesman whose shop he had looted. Whether he applied the paint himself or hired someone else to do so remains a matter of debate, but the result was identical: he adorned himself with the twelve distinct hues of a Dodecagon. Venturing into the Marketplace, he approached a young maiden, the orphaned daughter of a noble Polygon whom he had unsuccessfully courted in the past. Adopting a falsetto voice, he deceived her through a series of cunning stratagems—aided by a string of fortunate accidents too tedious to recount, and compounded by the near-inconceivable negligence of the bride's family—who ultimately led to the consummation of the marriage. Upon discovering the fraud, the unfortunate girl took her own life.
+
+When news of this catastrophe rippled from state to state, the women of Flatland were thrown into violent agitation. Empathy for the tragic victim, coupled with the terrifying anticipation that similar deceptions awaited their sisters and daughters, transformed their perspective on the Colour Bill entirely. Many openly declared their conversion to the anti-colour cause; the remainder required merely a spark to follow suit. Seizing this opportune moment, the Circles hastily convened an extraordinary Assembly of the States. Alongside the customary guard of convicts, they ensured the presence of a large contingent of reactionary women. Amidst an unprecedented crowd, Pantocyclus, the Chief Circle of that era, rose to find himself hissed and booed by a hundred and twenty thousand Isosceles. However, he quelled the uproar by announcing a policy of concession. Yielding to the will of the majority, he proclaimed that the Hierarchy would accept the Colour Bill.
+
+Instantly, the jeers turned to applause. Pantocyclus then invited Chromatistes, the leader of the sedition, to the center of the hall to receive the submission of the hierarchy on behalf of his followers. What ensued was a speech of rhetorical mastery, delivered over nearly a full day, defying any attempt at summarization. With a grave air of impartiality, Pantocyclus argued that since they were now irrevocably committing to reform, they must first survey the entire perimeter of the issue, weighing both its flaws and benefits. He gradually introduced warnings regarding the dangers posed to traders, professionals, and gentlemen, silencing the rising murmurs of the Isosceles by reminding them that despite these drawbacks, he was prepared to accept the bill if ratified by the majority. It was evident that everyone present, save the Isosceles, was swayed by his words, leaning toward neutrality or outright opposition.
+
+Turning his gaze to the workmen, he asserted that their interests could not be ignored. If they wished to adopt the Colour Bill, they must do so with eyes wide open to the consequences. He warned that many were on the verge of ascending to the rank of Regular Triangles, while others looked forward to distinctions their children might never achieve. Such honorable ambitions would now be sacrificed. With the universal adoption of color, all social distinctions would vanish; regularity would be confused with irregularity, and progress would yield to regression. The workman would, within a few generations, be degraded to the level of the military or even the convict class. Political power would fall into the hands of the greatest numbers—the criminal classes, who were already more numerous than the workers and would soon outnumber all other castes combined once the compensative laws of nature were violated.
+
+A subdued murmur of agreement swept through the ranks of the artisans. Alarmed, Chromatistes attempted to step forward and address them directly. But he found himself surrounded by guards and forced into silence while the Chief Circle, in a few impassioned words, made a final appeal to the women. He cried out that if the Colour Bill passed, no marriage would ever be safe, no woman's honor secure; fraud, deceit, and hypocrisy would permeate every home, and domestic bliss would share the fate of the constitution, rushing swiftly to ruin.
+
+"Sooner than this," he thundered, "come death!"
+
+These words served as the prearranged signal for action. The Isosceles convicts surged forward, piercing the wretched Chromatistes with their angles. Simultaneously, the regular classes parted their ranks to allow a band of women, directed by the Circles, to move backward-first, invisibly and infallibly, against the unconscious soldiers. The artisans, emulating their superiors, also opened their lines. Meanwhile, bands of convicts seized every entrance, forming an impenetrable phalanx. The conflict, or rather the massacre, lasted but a brief moment. Under the skilled command of the Circles, almost every charge by the women proved fatal, and many stung their attackers without injury, poised for a second strike. Yet, no second blow was necessary; the rabble of the Isosceles finished the job among themselves. Surprised, leaderless, attacked in front by invisible foes, and trapped behind by the convicts cutting off escape, they instantly lost all composure, raising the cry of "treachery." This sealed their doom. Suddenly, every Isosceles perceived a foe in every other. Within half an hour, not one of that vast multitude remained alive; the scattered fragments of seven hundred thousand members of the criminal class, killed by their own kind's angles, testified to the triumph of order.
+
+The Circles did not delay in pushing their victory to its logical conclusion. They spared the working men but decimated them. The militia of the equilateral triangles was immediately mobilized, and every triangle suspected of irregularity on reasonable grounds was executed by court-martial, bypassing the formalities of precise measurement by the Social Board. Over the course of a year, the homes of the military and artisan classes were systematically inspected. During this period, every town, village, and hamlet was purged of the surplus of the lower orders—a condition exacerbated by the failure to collect the tribute of criminals for schools and universities, and by violations of other constitutional natural laws. Thus, the balance of classes was restored.
+
+Needless to say, the use of color was thereafter abolished, and its possession strictly prohibited. Even the utterance of any word denoting color, save by the Circles or qualified scientific instructors, incurred severe penalties. Only within our University, in certain highly esoteric courses—which I myself have never been privileged to attend—is the sparing use of color still sanctioned to illustrate profound mathematical problems. But of this, I can speak only from hearsay. Elsewhere in Flatland, color is nonexistent. The art of creating it is known to only one living soul: the Chief Circle for the time being. By him, it is transmitted solely to his successor on his deathbed. There exists but one manufactory where it is produced; and lest the secret be betrayed, the workmen are annually consumed, replaced by fresh recruits. So great is the terror with which our aristocracy now regards the distant days of the agitation for the Universal Colour Bill.
+
+It is finally time to leave behind these preliminary sketches of Flatland's geography and physics to address the true purpose of this journey: my initiation into the fourth dimension. Everything written thus far serves only as a prologue to this revelation. Consequently, I must omit countless fascinating details regarding our mode of locomotion without limbs, our methods of construction without hands, the meteorological patterns of our zones, the biology of our flora, and the mechanics of our script. These omissions are not due to oversight, but rather a respect for your limited attention span. However, before unveiling the secrets of Space, there is one final pillar of our society that demands discussion: the Controllers of Destiny, the Objects of Universal Adoration—our Circles, or Priests.
+
+Do not mistake the title "Priest" for its common usage in your world. In Flatland, a Circle is the supreme administrator of every conceivable domain: commerce, engineering, education, statecraft, morality, and theology. They are the invisible causes behind every visible effect; they direct all action while performing none themselves. While the uneducated masses assume a Circle is a perfect geometric curve, the enlightened know the truth: a Circle is merely a polygon with an immense number of infinitesimal sides. As the count of sides grows, the shape approaches perfection. A figure with three hundred sides is nearly indistinguishable from a true circle to the human eye.
+
+Yet, there is a profound taboo associated with this form. Among the elite, tactile recognition is forbidden. To physically trace the perimeter of a superior being is considered the height of insolence. This cultural aversion to touch allows the upper classes to maintain the mystique of their status. By avoiding contact, they preserve the illusion of their infinite smoothness. Mathematically, if a standard Circle averages three feet in circumference, a figure with three hundred sides possesses edges barely one-tenth of an inch long. Those with six or seven hundred sides have edges smaller than the head of a pin from Spaceland. Tradition dictates that the High Priest currently reigning possesses ten thousand sides—a number so vast it effectively renders him a true sphere in the eyes of the law.
+
+Unlike the rigid caste system governing triangles and squares, where social mobility is strictly dictated by generational inheritance (gaining exactly one side per birth), the path to becoming a Circle is fluid and perilous. Nature imposes two conflicting laws on this evolution: as a lineage ascends socially, its rate of development accelerates, but its fertility plummets. In the homes of polygons nearing circularity, sons are rarely born; twins are unheard of. Conversely, the offspring of a near-perfect polygon may inherit hundreds of additional sides instantly.
+
+To bridge the gap between a complex polygon and a Circle, art intervenes through a brutal medical practice. Physicians have discovered that the fragile edges of a high-class infant can be surgically fractured and reset with surgical precision. This procedure, known as Neo-Therapy, carries a staggering mortality rate. Roughly nine out of ten children perish during the operation. Nevertheless, driven by an obsessive desire for nobility, parents of borderline status rush their infants to the Neo-Therapeutic Gymnasium within their first month of life. The entire ordeal lasts just one year. Most often, the child returns to the family crypt, another nameless entry on the crowded cemetery stones. But occasionally, against all odds, a procession emerges carrying a survivor—not a polygon, but a Circle. This singular miracle validates the sacrifice, prompting countless other families to gamble their children's lives on the slim chance of achieving divine geometry.
+
+The entire theological and philosophical framework of the Circles can be distilled into a single, absolute maxim: *"Attend to your Configuration."* Whether applied to politics, religion, or morality, every teaching serves one ultimate goal: the refinement of individual and collective shape. Specifically, this applies to the Circles themselves, whose perfection renders all other pursuits secondary.
+
+It is the supreme achievement of the Circles that they have eradicated the ancient heresy suggesting that character is shaped by willpower, effort, training, or encouragement. They have convinced humanity that *Configuration makes the man*. If you are born an Isosceles with unequal sides, you are destined for error unless corrected at the Isosceles Hospital. Similarly, Triangles, Squares, and Polygons born with irregularities must seek cure at the Regular Hospitals; failure to do so results in imprisonment or execution by the Angle of the State Executioner. Under the philosophy of Pantocyclus—the great Circle who quelled the Colour Revolt—no fault, from minor misconduct to heinous crime, exists outside of physical deviation from perfect Regularity. These deviations may stem from birth, collisions in crowds, improper exercise, or sudden temperature changes causing the body to expand or contract. Consequently, Pantocyclus argued that praising or blaming conduct is illogical. Why praise a Square's integrity when one should merely admire the geometric precision of his angles? Why condemn a thiefly Isosceles when the true tragedy is the incurable inequality of his sides?
+
+While theoretically flawless, this doctrine creates severe practical dilemmas. When an Isosceles pleads poverty of spirit due to his unevenness, the Magistrate replies that such a nuisance deserves consumption. However, in domestic disputes where death is not an option, the theory falters. I often find myself torn when a Hexagonal grandson excuses his disobedience by citing a recent chill that distorted his perimeter. Logically, I cannot accept that his shape dictates his behavior; yet, I lack the courage to reject his plea outright. Thus, I resort to a compromise: I assume that a stern scolding possesses a latent power to strengthen his configuration, despite having no scientific basis for this belief.
+
+I am not alone in this pragmatic evasion. Even high-ranking Circles acting as judges utilize praise and blame, speaking of "right" and "wrong" with passionate conviction, as if these concepts possessed tangible existence. Furthermore, our societal commandments have been inverted relative to Spaceland. Where Spaceland teaches children to honor their parents, we teach men to honor their grandsons—or sons—with a reverence that borders on worship. By "honor," we do not mean indulgence, but a devoted commitment to the higher interests of posterity, subordinating parental needs to ensure the state's future stability.
+
+However, the greatest weakness in the Circle system lies in its treatment of Women. To prevent irregular births, society strictly forbids marriage between individuals with irregular ancestry. While male irregularity is measurable, women appear visually Regular (being straight lines); thus, their "invisible" genetic flaws must be deduced through meticulously maintained state-supervised pedigrees. Without certification, marriage is impossible.
+
+Ironically, the stricter the scrutiny regarding a woman's lineage, the less rigorous it becomes as one ascends the social ladder. An ambitious Isosceles seeking an Equilateral son will scrutinize a bride's ancestry down to the root. A Square or Pentagon checks back only five hundred generations. A Hexagon or Dodecagon is even more lax. Yet, a Circle—a being of supreme status—has been known to marry a woman with an irregular Great-Grandfather solely for her superior luster or the melodious charm of her voice, qualities we prize immensely in females. Such unions frequently result in sterility or the reduction of sides. While the loss of a side in a complex polygon is often unnoticed or repaired via Neo-Therapeutic operations, the Circles tend to view infertility as a natural law of advanced evolution. If unchecked, this trend threatens to erode the Circle class entirely, potentially collapsing the Flatland constitution before a new Chief Circle can emerge.
+
+A second, equally grave threat arises from our official policy toward female education. Three centuries ago, the Chief Circle decreed that, lacking reason and overflowing with emotion, women should cease to be treated as rational beings. They were barred from reading and denied arithmetic skills necessary to count the angles of their husbands and children. The result has been a generational decline in female intellectual capacity, a policy of enforced quietism that persists today.
+
+My deepest fear is that this suppression has inadvertently damaged the Male sex. We now live a dual existence: a "bi-mental" life. With women, we employ a vocabulary of love, duty, pity, and hope—emotional fictions designed to manage feminine excess. Among ourselves, however, we revert to a cold lexicon of necessity, fitness, and anticipated benefit. We perform a ritualistic display of deference to women, convincing them that we adore them as fervently as the Chief Circle, while privately viewing them as "mindless organisms."
+
+Our theology differs radically depending on whether we address a woman or another man. This double standard places an unbearable burden on the youth. At age three, boys are forcibly removed from maternal care to "unlearn" the emotional language of their mothers and replace it with the rigid dialect of science. I already perceive a weakening in the grasp of mathematical truth among the current generation compared to the robust intellects of our ancestors three hundred years ago.
+
+Beyond the erosion of male intellect, there looms the terrifying prospect of a woman secretly acquiring literacy. Should she read even a single popular volume, or should an infant boy accidentally overhear the secrets of logic, the entire foundation of our society could crumble. Based solely on the enfeeblement of the male mind, I humbly urge the Highest Authorities to reconsider the regulations governing female education.
+
+It was the penultimate day of the 1999th year of our era, marking the dawn of the Great Holiday. After indulging until late hours in my beloved pastime of geometry, I retired to sleep, burdened by an unsolved mathematical puzzle. That night, I dreamed.
+
+Before me lay a vast throng of tiny straight lines—whom I naturally presumed to be women—interspersed with even smaller entities, luminous points. All moved back and forth within a single, identical straight line, maintaining roughly the same velocity. At intervals, a chaotic chorus of chirping and twittering erupted from them during their movement; yet whenever they halted, absolute silence fell.
+
+Approaching one of the largest figures, whom I took to be a woman, I attempted to address her, but received no response. Two further appeals yielded the same result. Impatient at what seemed intolerable rudeness, I maneuvered my mouth directly in front of hers to block her path and shouted, "Woman, what does this gathering signify? What is this strange, confused chirping, and this monotonous oscillation along this single straight line?"
+
+*[Illustration Description: A diagram depicts a horizontal line representing the universe. Along this line are various shapes labeled 'Women' (small lines), 'Men' (larger lines), 'A boy', and 'The KING'. Arrows indicate the linear motion (<----->). Above the King, large circles represent his eyes, noting that despite their size, he sees only a point.]*
+
+"I am no woman," replied the diminutive line. "I am the Monarch of this world. But tell me, whence do you intrude into my realm of Lineland?"
+
+Taken aback by this abrupt rebuke, I apologized for startling his Royal Highness. Describing myself as a stranger, I implored him to explain the nature of his dominion. However, extracting meaningful information proved exceedingly difficult. The Monarch could not resist the assumption that because something was familiar to him, it must be known to me, interpreting my queries as playful feigned ignorance. Through persistent questioning, however, I eventually coaxed the following truths from him:
+
+This poor, self-proclaimed ignorant monarch believed that the straight line he termed his kingdom—and wherein he spent his entire existence—constituted the entirety of the world, and indeed, all of space itself. Incapable of moving or seeing outside this line, he possessed no concept of anything beyond it. Although he had heard my initial voice, the sound arrived in a manner entirely alien to his experience. As he later explained, he saw no person and perceived a voice emanating strangely from "my own intestines."
+
+Until I physically obstructed his path, he had neither seen me nor understood anything but confused vibrations striking what I called his side, but which he termed his "inside" or "stomach." Even then, he held no notion of my origin. To him, everything outside his world—or line—was not merely empty, but non-existent. A blank implies space; for him, there was simply nothing.
+
+His subjects—the small lines who were men, and the points who were women—all shared this confinement. Their motion and sight were restricted strictly to that single straight line, which served as their universe. Consequently, their entire horizon was limited to a mere point. To a Linelander, every man, woman, child, or object appeared only as a point. Sex and age could be discerned solely by the timbre of the voice. Furthermore, since each individual occupied the entirety of the narrow path constituting their universe, and no one could shift right or left to accommodate others, it followed that no Linelander could ever pass another. Once neighbors, forever neighbors. For them, neighborhood was akin to marriage; neighbors remained neighbors until death separated them.
+
+Such a life, with vision reduced to a point and motion confined to a line, struck me as inexpressibly dreary. I was surprised, therefore, to observe the King's evident vivacity and cheerfulness. Curious whether joy was possible under conditions so hostile to domestic intimacy, I hesitated to inquire about his family. Finally, driven by curiosity, I bluntly asked about the health of his household.
+
+"My wives and children," he replied, "are well and happy."
+
+Staggered by this answer—for immediately surrounding the Monarch, as I had noted in my dream, were only men—I dared to respond, "Pardon me, but I cannot conceive how Your Royal Highness can ever see or approach their Majesties when at least six individuals stand between you. You cannot see through them, nor pass them. Is it possible that in Lineland, proximity is unnecessary for marriage and procreation?"
+
+"How dare you ask such an absurd question!" retorted the Monarch. "If things were as you suggest, the universe would quickly become uninhabitable. No, no; proximity is irrelevant to the union of hearts, and the birth of children is too sacred to rely on such chance accidents as physical closeness. Surely you are not unaware of this. Yet, since you choose to pretend ignorance, I shall instruct you as if you were the youngest infant in Lineland."
+
+"Know, then, that marriages are consummated through the faculty of sound and the sense of hearing."
+
+"You must understand," continued the King, "that every man possesses two mouths or voices, just as he has two eyes—a bass at one end and a tenor at the other. I ought not to mention this unless I failed to distinguish your tenor during our conversation."
+
+I admitted I had only one voice and was unaware that his Majesty possessed two.
+
+"That confirms my suspicion," said the King. "You are not a man, but a feminine monstrosity possessing a bass voice and an utterly uneducated ear. Nevertheless, let us proceed."
+
+"Since Nature ordains that every man must wed two wives—"
+
+"Why two?" I asked.
+
+"You push your pretended simplicity too far," he cried. "How can a complete harmonic union exist without the combination of the four-in-one: the bass and tenor of the man, plus the soprano and contralto of the two women?"
+
+"But suppose," I interjected, "that a man prefers only one wife, or perhaps three?"
+
+"It is impossible," he declared. "As inconceivable as two and one making five, or as the human eye perceiving a straight line."
+
+I wished to interrupt, but he pressed on: "Once a week, a Law of Nature compels us to engage in a rhythmic motion of unusual intensity, lasting approximately the time it takes to count one hundred and one beats. During this grand choral dance, at the fifty-first pulse, all inhabitants of the universe halt in mid-stride. At this decisive moment, every individual emits their richest, fullest, sweetest tone. It is here that all our marriages occur. So exquisite is the adaptation of bass to treble, and tenor to contralto, that often lovers separated by twenty thousand leagues instantly recognize the responsive note of their destined partner. Penetrating the trivial barriers of distance, Love unites the trio. The marriage thus consummated yields a triple offspring—one male and two females—which enters the lineage of Lineland."
+
+"What! Always triple?" I exclaimed. "Does every wife then always bear twins?"
+
+"Bass-voiced monstrosity! Yes," replied the King. "How else could the balance of the sexes be maintained if two girls were not born for every boy? Would you deny the very alphabet of Nature?"
+
+He fell silent, overcome by fury, and considerable time passed before I could coax him to resume his tale.
+
+"You will not, of course, assume that every bachelor finds his mate at the first attempt in this Universal Marriage Chorus. On the contrary, the process is repeated by most of us many times. Few are the fortunate souls who immediately recognize in each other's voices the partner ordained by Providence and rush into a reciprocal, perfectly harmonious embrace. For most, courtship is prolonged. The wooer's voice may align with one future wife but not the other; or match neither initially; or the soprano and contralto may lack perfect harmony. In such cases, Nature provides that every weekly chorus brings the three lovers into closer alignment. Each trial of voice, each fresh discovery of discord, subtly induces the imperfect party to adjust their vocal output to approximate the superior tone. After numerous trials and gradual approximations, success finally arrives. There comes a day when, amidst the customary Marriage Chorus echoing across Lineland, the three distant lovers suddenly achieve exact harmony. Before they realize it, the wedded triplet is embraced vocally in a duplicate union, and Nature rejoices in another marriage and three new lives."
+
+Deciding it was high time to drag the Monarch down from his ecstatic reverie to the plane of common sense, I resolved to offer him glimpses of the truth—that is, the true nature of our Flatland universe. Thus, I began:
+
+"How does Your Royal Highness distinguish the shapes and positions of His subjects? By my own observation, prior to entering Your Kingdom, I noted via the sense of sight that some of Your people are Lines while others are Points, and that certain Lines vary greatly in magnitude—"
+
+"You speak of an impossibility!" the King interrupted sharply. "You must have witnessed a hallucination. To differentiate between a Line and a Point using the sense of sight is, by the laws of nature, utterly impossible. However, it can be precisely detected through the sense of hearing, and by this same method, my exact shape may be ascertained. Behold—I am a Line, the longest in Lineland, spanning over six inches of Space."
+
+"Of *Length*," I ventured to clarify.
+
+"Fool!" he snapped. "Space *is* Length. Interrupt me again, and I shall cease speaking."
+
+Apologizing hastily, I pressed on. Since he was impervious to logic, I decided to demonstrate his auditory superiority directly. "Listen well, Sire. Through my dual voices, I reveal my shape to my Wives, who are currently located six thousand miles, seventy yards, two feet, and eight inches away—one to the North, the other to the South. Hear me now."
+
+He emitted a sharp chirp, then continued with smug satisfaction: "My Wives, receiving the sound of my first voice closely followed by the second, perceive that the latter arrives after an interval during which sound traverses 6.457 inches. From this delay, they infer that one of my mouths lies 6.457 inches farther from them than the other, thereby deducing my total length. Naturally, they do not perform this calculation anew with every greeting; they established it once, before our marriage. Yet, they possess the capacity to do so at any moment. Similarly, I can determine the shape of any male subject solely through sound."
+
+"But what if," I asked, "a Man feigns a Woman's voice with one of his tones, or disguises his southern vocalization so thoroughly that it cannot be identified as an echo of his northern tone? Might such deceptions not cause grave inconvenience? Furthermore, have you no means of detecting fraud by commanding neighboring subjects to physically touch one another?"
+
+This was, of course, a foolish query, for tactile sensation offered no solution here; yet I posed it deliberately to irritate the Monarch, succeeding beyond my hopes.
+
+"What!" he shrieked in horror. "Explain your meaning!"
+
+"Feel, touch, come into contact," I replied.
+
+"If by 'FEELING' you mean approaching so closely that no space remains between two individuals, know, Stranger, that this offense is punishable by death within my dominions. The reasoning is obvious: the fragile form of a Woman is liable to shatter under such extreme approximation and must be protected by the State. Since Women cannot be distinguished from Men by sight alone, the Law universally decrees that neither Man nor Woman shall approach another so closely as to obliterate the interval between them."
+
+"And indeed," the King scoffed, "what conceivable purpose could be served by this illegal and unnatural excess of approximation, which you term 'touching,' when all the ends of such a brutal and crude process are achieved instantly and with greater precision through the sense of hearing? Regarding your alleged danger of deception, it is nonexistent. The Voice is the very essence of one's Being; it cannot be altered at will. Come, suppose I possessed the power to pass through solid objects, penetrating my subjects one by one—even numbering a billion—to verify their size and distance via the sense of 'feeling.' How much time and energy would be squandered on this clumsy, inaccurate method! Wherefore, in a single moment of audition, I conduct the census and gather statistics—local, corporeal, mental, and spiritual—of every living soul in Lineland. Hark! Only hark!"
+
+So saying, he paused, listening in a state of ecstasy to a sound that appeared to me no better than the tiny chirping of countless Lilliputian grasshoppers.
+
+"Truly," I admitted, "Your sense of hearing serves you well, compensating for many deficiencies. Yet, permit me to observe that life in Lineland must be deplorably dull. To see nothing but a Point! Not even to contemplate a Straight Line! Nay, not even to comprehend what a Straight Line *is*! It would be preferable to possess no sense of sight at all than to see so little! I grant you I lack your discriminative faculty of hearing; for the grand concert of Lineland, which brings you such intense joy, sounds to me merely like a multitudinous twittering or chirping. But at least I can discern, by sight, a Line from a Point. Let me prove it. Just before entering Your Kingdom, I observed You dancing from left to right, and then from right to left, accompanied immediately on Your left by seven Men and a Woman, and on Your right by eight Men and two women. Is this accurate?"
+
+"It is correct," the King conceded, "insofar as the numbers and sexes are concerned, though I confess I do not grasp what You mean by 'right' and 'left.' But I deny that You saw these things. How could You possibly see the Line—that is, the interior—of any Man? You must have heard these details and subsequently dreamt that You saw them. Moreover, pray tell, what do You mean by those words 'left' and 'right'? I presume it is Your dialectic equivalent for 'Northward' and 'Southward.'"
+
+"Not so," I replied. "Besides Your motion of Northward and Southward, there exists another motion which I call movement from right to left."
+
+"KING: Exhibit to me, if You please, this motion from left to right."
+
+"I: Nay, I cannot do so unless You could step entirely out of Your Line."
+
+"KING: Out of my Line? Do You mean out of the world? Out of Space itself?"
+
+"I: Well, yes. Out of *Your* World. Out of *Your* Space. For Your Space is not the true Space. True Space is a Plane; but Your Space is merely a Line."
+
+"If You cannot indicate this motion from left to right by moving within it Yourself, I beseech You to describe it to me in words."
+
+"I: If You cannot distinguish Your right side from Your left, I fear no words of mine can render my meaning clear to You. Surely, however, You cannot be ignorant of such a simple distinction."
+
+"KING: I do not in the least understand You."
+
+"I: Alas! How shall I make it clear? When You move straight ahead, does it not occasionally occur to You that You *could* move in some other manner, turning Your eye around to gaze in the direction toward which Your side is currently facing? In other words, instead of perpetually moving toward one of Your extremities, do You never feel a desire to move in the direction, so to speak, of Your side?"
+
+"KING: Never. And what do You mean? How can a man's inside 'face' in any direction? Or how can a man move in the direction of his inside?"
+
+"Well then, since words fail to explain the matter, I shall resort to deed. I will gradually move my body out of Lineland in the direction I wish to indicate."
+
+At my command, I began to withdraw my form from Lineland. As long as any portion of me remained within His dominion and visible to Him, the King exclaimed, "I see You! I see You still! You are not moving!" But once I had finally withdrawn completely from His Line, he cried out in his shrillest voice, "She has vanished! She is dead!"
+
+"I am not dead," I replied calmly. "I am simply out of Lineland—that is, out of the Straight Line which You call Space—and situated in the true Space, wherein I can perceive things as they truly are. At this very moment, I can see Your Line, or rather, Your side—or whatever internal aspect You choose to call it. I can also see the Men and Women positioned to the North and South of You, whom I shall now enumerate, detailing their order, their dimensions, and the intervals separating each."
+
+```text
+My Body (Square) just before disappearance
++---------------------+
+/| \ \ \ \ | \ \ \ \ | \ \ \ \ |
+/ |  \ \ \ \ | \ \ \ \ | \ \ \ \ |
+Lineland ----->|\       \|       \|       \|
+|\       \|       \|       \|
+The King -------------------+-----------------------========
+(Perspective from above/Plane)
+```
+
+Having enumerated the details at great length, I cried triumphantly, "Does that at last convince You?" With that, I re-entered Lineland, resuming my previous position.
+
+However, the Monarch responded, "If You were a Man of sense—though, given that You appear to possess only one voice, I harbor little doubt that You are a Woman, not a Man—but if You possessed even a particle of sense, You would listen to reason. You ask Me to believe in another Line besides that indicated by My
+
+From the realm of dreams, I turn now to the stark reality of fact. It was the final day of the 1999th year of our era. The rhythmic pattering of rain against the walls had long since heralded the arrival of night. Seated beside my wife, we contemplated the weight of the past year and the uncertain horizons of the millennium approaching—the next century, the next great epoch.
+
+[Note: When I use the term "seated," I refer strictly to a state of mental repose, distinct from the physical postures known to your people in Spaceland. For we, lacking feet, cannot "sit" or "stand" in your literal sense; we exist merely as lines floating in space. Yet, we intuitively distinguish between the volitions of lying down, resting, and standing upright. These internal shifts manifest externally as subtle variations in our surface lustre, brighter where willpower intensifies. However, to elaborate on such metaphysical nuances would consume time better spent elsewhere.]
+
+My four sons and two orphan grandchildren had withdrawn to their respective chambers. My wife remained with me, keeping vigil over the transition from the old millennium to the new. Lost in contemplation, my mind drifted back to a conversation earlier that evening with my youngest grandson—a brilliant hexagon of exceptional promise and flawless angularity. We had been engaged in our customary lesson of Sight Recognition, rotating upon our centers at varying speeds while he identified our orientations. Satisfied with his keen perception, I rewarded him with a primer on arithmetic applied to geometry.
+
+Taking nine squares, each measuring one inch per side, I arranged them to form a larger square with a side length of three inches. Thus, I demonstrated to my grandson that, though we cannot perceive the interior volume of a shape, we can calculate its area by squaring the side length: *"Thus,"* I explained, *"3 squared, or 9, represents the total square inches within a figure whose side measures three inches."*
+
+The young hexagon pondered this briefly before posing a question that unsettled me. *"Yet, you teach me to raise numbers to the third power,"* he observed. *"If 3 squared yields a square, surely 3 cubed must hold significance in geometry. What does it denote?"*
+
+*"None whatsoever,"* I replied sharply. *"Not in geometry, at least. Our world possesses only two dimensions."*
+
+Undeterred, I proceeded to illustrate how a point traversing a distance of three inches creates a line of three units (represented by 3), and how a line of three inches moving parallel to itself generates a square of three inches on every side (represented by 3²). Immediately, my grandson seized upon the pattern. *"Then,"* he interrupted, his voice rising with sudden excitement, *"if a point moving three inches makes a line (3), and a line moving parallel makes a square (3²)... then a square moving somehow parallel to itself must create something else entirely—something of three inches in every dimension—and this must be represented by 3³!"*
+
+*"Retire to your bed,"* I snapped, irritated by the intrusion. *"Speak less nonsense if you wish to retain any sense."*
+
+With those words, the boy vanished in shame. Alone once more, I attempted to reflect on the closing year 1999 and the dawn of 2000, yet the echo of my grandson's query lingered stubbornly in my mind. Only a handful of grains remained in the hourglass. As I righted the glass northward for the final time of the old millennium, I muttered aloud, *"That boy is a fool."*
+
+Instantly, a Presence filled the room. A chilling breath swept through my very essence.
+
+*"He is no fool,"* my wife cried out, her voice trembling. *"And you blaspheme the Commandments by dishonoring your own grandchild in such fashion."*
+
+I paid her rebuke no heed. Scanning the darkness in every direction, I saw nothing. Yet, I *felt* the Presence, and another icy whisper brushed against my spirit. I leaped to my feet.
+
+*"What troubles you?"* my wife asked. *"There is no draft. What do you seek? There is nothing here."*
+
+Indeed, there was nothing visible. I returned to my seat, repeating my accusation: *"The boy is a fool; 3³ holds no meaning in geometry."*
+
+At once, a clear, resonant voice answered from the void: *"The boy is not a fool; and 3³ possesses an undeniable geometrical meaning."*
+
+Both my wife and I heard the words, though she failed to grasp their import. Startled, we both lunged toward the source of the sound. Horror gripped us when we finally discerned a Figure before us.
+
+At first glance, it resembled a woman viewed from the side. However, fleeting observation revealed that its extremities faded into dimness far too rapidly to belong to the female sex. I initially suspected a circle, save that the figure shifted in size with a fluidity impossible for any regular plane figure I knew. My wife, lacking my experience and composure, succumbed immediately to the frantic, jealous instincts of her gender. She concluded without hesitation that a woman had slipped indoors through some unseen aperture.
+
+*"How did this person enter?"* she demanded. *"You promised, my dear, that our new home would have no vents!"*
+
+*"There are no vents,"* I assured her. *"But why assume the stranger is female? By my power of Sight Recognition—"*
+
+*"I have no patience with your Sight Recognition!"* she retorted. *"'Feeling is believing,' and 'A straight line to the touch is worth a circle to the sight'"*—proverbs beloved by the Frailer Sex in Flatland.
+
+Reluctantly, fearing further agitation, I yielded. *"Very well,"* I said. *"Demand an introduction."*
+
+Adopting her most gracious demeanor, my wife stepped forward. *"Permit me, Madam, to feel and be felt by..."* She recoiled abruptly. *"Oh! It is not a woman. There are no angles, not a single trace of one. Could I have offended a perfect Circle?"*
+
+*"In a certain sense, I am a Circle,"* the voice replied calmly. *"And a more perfect Circle than any found in Flatland. To be precise, however, I am many circles united as one."*
+
+Softening his tone, the visitor continued, *"I bear a message for your husband that I cannot deliver in your presence. If you would allow us to withdraw for a brief moment—"*
+
+My wife refused to entertain the notion that our august guest would inconvenience himself. Asserting that her own retirement hour had long passed, and offering repeated apologies for her earlier indiscretion, she finally withdrew to her chamber.
+
+I glanced at the hourglass. The last grains had fallen. The third Millennium had begun.
+
+As soon as the sound of my wife's Peace-cry faded into the distance, signaling her departure, I turned my attention back to the Stranger. I intended to approach him closely and invite him to sit, but his appearance left me speechless and paralyzed with astonishment. He displayed absolutely no signs of angularity, yet he fluctuated instantly between gradations of size and brilliance that were utterly impossible for any figure within my known experience.
+
+A terrifying thought flashed through my mind: perhaps I faced a burglar or a murderer—a monstrous, irregular Isosceles triangle—pretending to be a Circle to gain entry, now poised to strike me with its sharp angle. In a sitting room, where the air was unusually clear due to the dry season, visual recognition was unreliable at close range. Overcome by sheer terror, I rushed forward, shouting an uncouth, "Sir, you must permit me—" and reached out to touch him.
+
+My wife had been right. There was not a trace of an angle, no roughness, no inequality. Never in my life had I encountered a more perfect Circle. He remained motionless while I circled him, starting from his eye and returning to it. Throughout, he was circular; a perfectly satisfactory Circle. Doubt was impossible.
+
+Then began a dialogue, which I record as faithfully as memory allows, omitting only my excessive apologies—I was consumed by shame and humiliation that a Square should commit the impertinence of feeling a Circle.
+
+The Stranger began with evident impatience regarding the length of my introduction.
+
+**STRANGER:** "Have you felt me sufficiently by now? Are you not introduced?"
+
+**ME:** "Most illustrious Sir, forgive my clumsiness. It stems not from ignorance of social etiquette, but from surprise and nervousness caused by this unexpected visit. I beg you to keep my indiscretion secret, especially from my wife. However, before we proceed, would your Lordship graciously satisfy the curiosity of one eager to know whence this visitor comes?"
+
+**STRANGER:** "From Space, from Space, Sir: whence else?"
+
+**ME:** "Pardon me, my Lord, but are you not already *in* Space, along with your humble servant, at this very moment?"
+
+**STRANGER:** "Pooh! What do you know of Space? Define it."
+
+**ME:** "Space, my Lord, is height and breadth indefinitely prolonged."
+
+**STRANGER:** "Exactly. You see, you do not even know what Space is. You believe it consists of only Two Dimensions. I have come to announce a Third—to you, height, breadth, and length."
+
+**ME:** "Your Lordship seems to be joking. We too speak of length and height, or breadth and thickness, using four terms to denote Two Dimensions."
+
+**STRANGER:** "But I mean not merely three names, but *Three Dimensions*."
+
+**ME:** "Would your Lordship indicate or explain to me the direction of this Third Dimension, unknown to us?"
+
+**STRANGER:** "I came from it. It is 'up above' and 'down below.'"
+
+**ME:** "My Lord seems to imply it is Northward and Southward."
+
+**STRANGER:** "I mean nothing of the kind. I mean a direction in which you cannot look, because you possess no eye on your side."
+
+**ME:** "Pardon me, my Lord; a moment's inspection will convince you that I have a perfect luminary at the junction of two of my sides."
+
+**STRANGER:** "Yes: but to see *into* Space, you ought to have an eye not on your perimeter, but on your side—that is, on what you would call your 'inside,' though we in Spaceland simply call it your 'side.'"
+
+**ME:** "An eye in my inside! An eye in my stomach! Your Lordship jests!"
+
+**STRANGER:** "I am in no jesting mood. I tell you I come from Space—or, since you refuse to grasp the term, from the Land of Three Dimensions, from whence I but recently looked down upon your Plane, which you foolishly call Space. From that vantage point, I discerned everything you claim is SOLID (meaning 'enclosed on four sides'): your houses, your churches, your very chests and safes, yes—even your insides and stomachs—all laid bare and exposed to my gaze."
+
+**ME:** "Such assertions are easily made, my Lord."
+
+**STRANGER:** "Easily made, yes—but not easily proven. Yet, I intend to prove mine. When I descended here, I saw your four sons, the Pentagons, each in their apartments, and your two grandsons, the Hexagons. I watched your youngest Hexagon linger briefly before retiring to his room, leaving you and your wife alone. I saw your three Isosceles servants supping in the kitchen and the little page working in the scullery. Then I arrived here. How do you suppose I entered?"
+
+**ME:** "Through the roof, I suppose."
+
+**STRANGER:** "Not so. Your roof was recently repaired and contains no aperture large enough for even a woman to pass through. I tell you I come from Space. Are you not convinced by my account of your children and household?"
+
+**ME:** "Your Lordship must realize that facts concerning my belongings could easily be verified by anyone in the neighborhood possessing your ample resources for gathering intelligence."
+
+*(To himself)* **STRANGER:** "What must I do? Wait... one more argument suggests itself."
+
+When you see a Straight Line—for instance, your wife—how many Dimensions do you attribute to her?
+
+**ME:** "Your Lordship treats me as if I were a commoner ignorant of mathematics, believing a Woman is truly a Straight Line of only One Dimension. No, no, my Lord; we Squares are wiser. We know that a Woman, though popularly called a line, is scientifically a very thin Parallelogram possessing Two Dimensions, like the rest of us: length and breadth (or thickness)."
+
+**STRANGER:** "But the very fact that a Line is visible implies it possesses yet another Dimension."
+
+**ME:** "My Lord, I have admitted that a Woman is both long and broad. We see her length; we infer her breadth, which, though slight, is measurable."
+
+**STRANGER:** "You do not understand me. I mean that when you see a Woman, besides inferring her breadth, you ought to see her length AND SEE what we call her HEIGHT, although that dimension is infinitesimal in your country. If a Line were mere length without 'height,' it would cease to occupy space and become invisible. Surely you recognize this?"
+
+**ME:** "I must confess I do not understand. When we in Flatland see a Line, we see LENGTH and BRIGHTNESS. If the brightness vanishes, the Line is extinguished and, as you say, ceases to occupy space. Am I to suppose you grant the title of a Dimension to 'brightness,' equating what we call 'bright' with what you call 'high'?"
+
+**STRANGER:** "No, indeed. By 'height' I mean a Dimension like your length; only, with you, 'height' is imperceptible because it is extremely small."
+
+**ME:** "My Lord, your assertion is easily tested. You say I have a Third Dimension, which you call 'height.' Since Dimension implies direction and measurement, please measure my 'height' or indicate the direction in which it extends. I will become your convert immediately. Otherwise, your own understanding must excuse me."
+
+*(To himself)* **STRANGER:** "I can do neither. How shall I convince him? Surely a plain statement of facts followed by ocular demonstration ought to suffice."
+
+"Now, Sir; listen. You live on a Plane. What you style Flatland is the vast, level surface of a fluid, upon which you and your countrymen move without rising above it or falling below it. I am not a plane Figure, but a Solid. You call me a Circle; in reality, I am not a Circle, but an infinite number of circles, ranging from a Point to a circle of thirteen inches in diameter, stacked one atop another. When I cut through your plane as I am now doing, I create a section that you correctly identify as a Circle. Even a Sphere—which is my proper name in my homeland—if it manifests itself to a Flatlander, must appear as a Circle. Do you not recall, for I, who see all things, witnessed last night the phantom vision of Lineland imprinted on your brain? Remember how, when you entered the realm of Lineland, you were forced to manifest not as a Square, but as a Line, because that linear realm lacked the dimensions to represent your whole form, showing only a slice or section of you? Precisely the same applies here. Your country of Two Dimensions is too narrow to represent me, a being of Three; it can only exhibit a slice or section of me, which is what you call a Circle."
+
+The diminished brightness of your eye betrays your disbelief. But now, prepare for positive proof. You cannot see more than one of my sections—or Circles—at a time, for you lack the power to lift your eye out of the plane of Flatland. However, you can observe that as I rise in Space, my sections grow smaller. Watch now: I will rise, and the effect on your eye will be that my Circle shrinks until it dwindles to a point and finally vanishes.
+
+*[Illustration Description: A diagram depicts a sphere rising vertically. At the
+
+It proved entirely futile. I braved my sharpest right angle into a violent collision with the Stranger, driving him with a force capable of obliterating any ordinary Circle. Yet, I felt him slip slowly and inexorably from my grasp—not sliding right or left, but somehow exiting the world itself, fading into nothingness. Soon, there was only a void. Still, the Intruder's voice echoed in the silence.
+
+"SPHERE," he called out. "Why do you refuse to listen to reason? I hoped to find in you—given your status as a sensible man and an accomplished mathematician—a worthy apostle for the Gospel of the Third Dimension, which I am permitted to preach but once every millennium. Yet now, I know not how to convince you. Hold fast; I have a new idea. Let deeds, rather than words, proclaim the truth. Listen, my friend.
+
+I have told you that from my vantage point in Space, I perceive the interiors of all things you deem closed. Consider the cupboard near where you stand: I see several of your so-called boxes (which, like everything in Flatland, lack tops and bottoms) filled with coin; I also see two ledgers of account. I am about to descend into that cupboard to retrieve one of these tablets. I observed you locking it half an hour ago, and I know you hold the key. However, since I descend from Space, the doors remain perfectly still. Behold—I am now inside the cupboard, grasping the tablet. Now I ascend with it.
+
+I rushed to the closet and flung the door wide open. One of the tablets was gone. With a mocking laugh, the Stranger materialized in the far corner of the room, and simultaneously, the tablet appeared upon the floor. I picked it up. There could be no doubt—it was the missing ledger. I groaned in horror, questioning my sanity, yet the Stranger persisted:
+
+'Surely you must now see that my explanation alone fits the phenomena. What you call solid objects are merely surfaces; what you call space is nothing but a vast plane. I exist in Space, looking down upon the insides of the very things whose exteriors you alone perceive. You too could leave this plane, were you but summoned with the requisite will. A slight motion upward or downward would grant you sight equal to mine.'
+
+'The higher I mount,' he continued, 'and the further I recede from your plane, the more I can see, though naturally on a diminished scale. Observe: I am ascending. Now I see your neighbor, the Hexagon, and his family within their respective apartments; now I glimpse the interior of the Theatre, ten doors distant, as the audience departs; and on the opposite side, a Circle seated in his study amidst his books. Now I return to you. And as a final proof, what say you to receiving a mere touch, the slightest touch, upon your stomach? It will cause you no serious injury, and the fleeting pain pales in comparison to the mental enlightenment you shall gain.'
+
+Before I could utter a protest, a searing pain shot through my interior, and a demonic laughter seemed to erupt from within me. A moment later, the sharp agony subsided, leaving only a dull ache, as the Stranger began to reappear, growing larger with each passing second.
+
+'There, have I not harmed you greatly?' he asked. 'If you are not convinced now, I know not what will persuade you. What say you?'
+
+My resolve crumbled. It became unbearable to endure existence under the arbitrary whims of a magician who could manipulate one's very innards. If only I could pin him against the wall until help arrived! Once again, I drove my hardest angle into him, simultaneously raising a clamor for aid that alarmed the entire household. I believed that at the moment of my assault, the Stranger had sunk beneath our plane and struggled to rise. Regardless, he stood motionless while I, hearing what I thought were footsteps of approaching rescuers, pressed against him with renewed vigor and shouted for assistance.
+
+A convulsive shudder racked the Sphere. 'This must not be,' I seemed to hear him mutter. 'Either he must submit to reason, or I must resort to the ultimate resource of civilization.'
+
+Then, addressing me in a booming tone, he urgently cried: 'Listen: No outsider must witness what you have seen. Send your wife back immediately before she enters this apartment. The Gospel of the Third Dimension must not be thus thwarted. Not here must the fruits of a thousand years' waiting be cast aside. I hear her approach. Back! Back! Depart from me, or you shall go with me—wherever you know not—into the Land of Three Dimensions!'
+
+'Fool! Madman! Irregular!' I screamed. 'Never shall I release thee; thou shalt pay the penalty of thy deceptions!'
+
+'Ha! Is it come to this?' thundered the Stranger. 'Then meet your fate: Out of your plane you go. Once, twice, thrice! 'Tis done!'
+
+An unspeakable horror seized me. Darkness swallowed the light, replaced by a dizzy, sickening sensation of sight that defied all known laws. I perceived a Line that was no longer a Line; I beheld Space that was not Space. In that terrifying void, I existed as myself and yet ceased to be myself. When I finally regained the power of speech, I shrieked aloud in agony, "Either this is madness, or it is Hell!"
+
+"It is neither," a calm voice replied—that of the Sphere. "It is Knowledge; it is Three Dimensions. Open your eye once again and try to look steadily."
+
+I obeyed. Behold, a new world unfolded before me! Standing visibly incarnate before me was all that I had previously only inferred, conjectured, and dreamed of: perfect Circular Beauty. What appeared to be the center of the Stranger's form lay open to my gaze, yet within I saw no heart, no lungs, no arteries—only a beautiful, harmonious Something for which my vocabulary possessed no name. To you, my readers dwelling in Spaceland, this would simply be called the *surface* of the Sphere.
+
+Prostrating myself mentally before my Guide, I cried out, "How is it, O divine ideal of consummate loveliness and wisdom, that I see thy inside, yet cannot discern thy heart, thy lungs, thy arteries, thy liver?"
+
+"What you think you see, you do not truly see," he answered gently. "It is not granted to you, nor to any other being of Flatland, to behold my internal parts. I am of a different order of existence from those who inhabit your plane. If I were merely a Circle, you might perceive my intestines; but I am a being composed, as I told you, of many Circles—the Many united in the One, known here as a Sphere. Just as the exterior of a Cube appears as a Square, so too does the exterior of a Sphere present itself to your two-dimensional eyes as a Circle."
+
+Though bewildered by my Teacher's enigmatic words, I ceased to struggle against them and instead offered him silent worship. His tone grew milder. "Do not distress yourself if you cannot immediately grasp the deeper mysteries of Spaceland. They shall dawn upon you by degrees. Let us begin by casting a glance backward at the region whence you came. Follow me briefly across the plains of Flatland, and I will show you that which you have often reasoned about and thought upon, but never witnessed with the organ of sight—a visible Angle."
+
+"Impossible!" I exclaimed. Yet, led by the Sphere, I followed as if in a trance until his voice halted me once more: "Look yonder, and behold your own Pentagonal house, and all its inhabitants."
+
+I looked down and saw with my physical eye every detail of domestic individuality that I had hitherto merely deduced intellectually. How poor and shadowy that inference appeared compared to the vibrant reality now revealed! I saw my four sons sleeping peacefully in the northwestern rooms; my two orphan grandsons resting to the south; the servants, the butler, and my daughter, each in their respective chambers. Only my affectionate wife, alarmed by my prolonged absence, had left her room and was pacing anxiously up and down the hall, awaiting my return. Even the page, roused by my earlier cries, had emerged from his chamber, feigning concern over my potential fainting fit while peering into the cabinet of my study.
+
+All this I could now *see*, rather than infer. As we drew nearer, I discerned the contents of the cabinet itself, including the two chests of gold and the tablets mentioned by the Sphere.
+
+```text
+/\
+/  \   | My Study \
+< >    |___________\
+/   \   /   \       \
+/ Son \ /     \       \
+/       \|      \       \
+< >      \|_______\_______\
+Page      \        /
+\      /
+\    /
+\  /
+\/
+|
+< >
+/   \
+/ Wife\
+/ Appt  \
+/_________\
+/   Women's Door
+/
+/ My Daughter
+/
+/
+/
+/
+/
+/
+/
+```
+*(Note: The diagram above represents the spatial layout described, showing the relative positions of the Study, Hall, Bedrooms, and specific characters like the Wife, Sons, Grandsons, Page, Butler, and Scullion, along with the Men's and Women's doors and the Cellar below.)*
+
+Touched by my wife's evident distress, I attempted to spring downward to comfort her, but found myself utterly incapable of motion.
+
+"Do not trouble yourself regarding your wife," said my Guide. "She will not remain in anxiety for long. Meanwhile, let us survey Flatland."
+
+Once more, I felt myself rising through the ether. As the Sphere promised, the further we receded from the focal point, the wider the field of vision expanded. My native city, with the interior of every house and every creature within, lay exposed to my view in miniature. We ascended higher, and suddenly the secrets of the earth were bared: the depths of mines and the innermost caverns of the hills were laid bare before my unworthy eye.
+
+Awestruck by the unveiling of terrestrial mysteries, I turned to my companion and declared, "Behold, I am become as a God. For the sages of our country teach that to see all things—or, as they phrase it, *Omnividence*—is the sole attribute of Deity."
+
+There was a hint of scorn in the Teacher's voice as he responded. "Is that truly so? Then the pickpockets and murderers of my country must be worshipped by your sages as gods, for none of them sees less than you do now. But trust me, your wise men are mistaken."
+
+"I. Then is Omnividence the attribute of beings other than Gods?"
+
+"SPHERE. I do not know. However, if a pickpocket or a cutthroat of your nation can see everything contained within ours, surely that offers no justification for accepting them as deities. Does this 'Omnividence,' a term rare in Spaceland, render you more just, more merciful, less selfish, or more loving? Not in the least. So, how does it make you more divine?"
+
+"I. More merciful, more loving!"
+
+"But these are the qualities of women! And we know that a Circle is a higher being than a Straight Line, insofar as knowledge and wisdom are valued above mere affection."
+
+"SPHERE. It is not for me to classify human faculties according to merit. Yet, many of the finest and wisest souls in Spaceland value the affections more highly than the understanding, and hold your despised Straight Lines in greater esteem than your celebrated Circles. But enough of this. Look yonder. Do you recognize that structure?"
+
+I gazed afar and saw an immense polygonal edifice, which I identified as the General Assembly Hall of the States of Flatland, surrounded by dense rows of pentagonal buildings standing at right angles to one another—I knew these to be streets. I realized I was approaching the great Metropolis.
+
+"Here we descend," announced my Guide.
+
+It was now morning, the first hour of the first day of the two-thousandth year of our era. Acting in strict accordance with precedent, the highest Circles of the realm convened in solemn conclave, just as they had gathered on the first hour of the first day of the year 1000, and likewise on the first hour of the first day of the year 0. The minutes of these prior meetings were read aloud by one I instantly recognized as my brother, a perfectly symmetrical Square and the Chief Clerk of the High Council.
+
+The record stated unequivocally: *"Whereas the States have been troubled by various ill-intentioned individuals claiming to receive revelations from another World, and professing to demonstrate proofs thereby inciting frenzy among themselves and others, it has been unanimously resolved by the Grand Council that on the first day of each millennium, special injunctions be issued to the Prefects of the several districts of Flatland. These injunctions mandate a strict search for such misguided persons, and, without the formality of mathematical examination, to destroy all who are Isosceles of any degree, to scourge and imprison any regular Triangle, to send any Square or Pentagon to the District Asylum, and to arrest anyone of higher rank, transporting them immediately to the Capital to be examined and judged by the Council."*
+
+"You hear your fate," whispered the Sphere to me as the Council passed the formal resolution for the third time. "Death or imprisonment awaits the Apostle of the Gospel of Three Dimensions."
+
+"Not so," I replied. "The matter is now crystal clear to me; the nature of true space is so palpable that I believe I could explain it to a child. Permit me to descend at this very moment and enlighten them."
+
+"Not yet," said my Guide. "The time will come for that. Meantime, I must fulfill my mission. Remain where you are."
+
+With great dexterity, he leaped into the vast expanse of Flatland, plunging directly into the ring of counsellors.
+
+"I come," he proclaimed loudly, "to declare that there exists a Land of Three Dimensions!"
+
+Many of the
+
+Though the Sphere had unveiled countless mysteries of Spaceland to me, my hunger for understanding remained unsated. Yet, fate intervened abruptly. Witnessing my poor brother being led away to imprisonment, I attempted to leap from the balcony into the Council Chamber, driven by a desperate urge to intercede for him or at least bid him farewell. But my body refused to obey; I possessed no volition of my own. I was entirely dependent on the will of my Guide. In gloomy tones, the Sphere commanded, "Heed not thy brother; perhaps thou shalt have ample time hereafter to condole with him. Follow me."
+
+Once more, we ascended into the void.
+
+"Hitherto," the Sphere declared, "I have shown you nothing but Plane Figures and their interiors. Now, I must introduce you to Solids and reveal the architecture upon which they are built. Observe this multitude of movable square cards. See how I place one upon another—not, as you might assume, northward of the other, but *on* the other. Now a second, now a third. Thus, I construct a Solid by stacking squares parallel to one another. Now the Solid is complete; it is as high as it is long and broad, and we name it a Cube."
+
+"Pardon me, my Lord," I replied, trembling. "But to my eye, the appearance resembles an irregular figure whose interior is laid bare to view. In truth, I perceive no Solid, but merely a Plane—such as we infer in Flatland—but distorted into an irregularity that suggests a monstrous criminal. The sight is painful to my eyes."
+
+"True," said the Sphere. "It appears to you as a Plane because you lack the faculty to interpret light, shade, and perspective. Just as in Flatland a Hexagon appears as a straight line to one devoid of the Art of Sight Recognition, so too does a Solid appear flattened to you. But in reality, it is a Solid, a truth you shall soon grasp through the sense of Feeling."
+
+He guided me toward the Cube. Immediately, I realized this marvel was no mere plane. It was undeniably a Solid, endowed with six flat sides and eight terminal points known as solid angles. I recalled the Sphere's earlier teaching: that just such a creature is formed when a Square moves through Space parallel to itself. A surge of joy washed over me; to think that something as insignificant as I could be considered the progenitor of such an illustrious offspring!
+
+Yet, the concepts of "light," "shade," and "perspective" still eluded full comprehension. Without hesitation, I voiced my confusion. To recount the Sphere's explanation in detail would be tedious to an inhabitant of Space who already possesses this knowledge. Suffice it to say that through his lucid instructions, the shifting positions of objects and light sources, and by allowing me to feel various objects—and even his own sacred person—he finally clarified everything. I could now distinctly differentiate between a Circle and a Sphere, and between a Plane Figure and a Solid.
+
+This moment marked the climax, the paradise, of my strange and eventful history. From this point forward, I must relate the story of my miserable fall—a fall most tragic, yet surely undeserved. Why should the thirst for knowledge be ignited only to be extinguished by disappointment and punishment? My will recoils from the painful task of recalling my humiliation, yet, like a second Prometheus, I shall endure this agony and worse if only I can stir within the hearts of Planar and Solid humanity a spirit of rebellion against the conceit that limits our dimensions to two, three, or any finite number short of infinity.
+
+Away with all personal considerations! Let me proceed to the end, as I began, free from digression or anticipation, following the plain path of dispassionate history. The exact facts, the precise words—burned indelibly into my brain—shall be recorded without a single iota of alteration. Let my readers judge between me and Destiny.
+
+The Sphere would gladly have continued his lessons, indoctrinating me in the conformations of all regular solids: cylinders, cones, pyramids, pentahedrons, hexahedrons, dodecahedrons, and spheres. But I dared to interrupt him. Not that I was weary of knowledge; quite the opposite, I thirsted for deeper, fuller draughts than he offered.
+
+"Pardon me," I said, "O Thou whom I must no longer address as the Perfection of All Beauty. Let me beg thee to vouchsafe thy servant a sight of thine interior."
+
+**SPHERE:** My what?
+
+**ME:** Thy interior: thy stomach, thy intestines.
+
+**SPHERE:** Whence this ill-timed impertinence? And what do you mean by claiming I am no longer the Perfection of All Beauty?
+
+**ME:** My Lord, your own wisdom has taught me to aspire to One even greater, more beautiful, and closer to Perfection than yourself. As you, superior to all Flatland forms, combine many circles into one, so doubtless there exists One above you who combines many spheres into a Supreme Existence, surpassing even the solids of Spaceland. Even as we, now in Space, look down upon Flatland and see the insides of all things, so surely there lies above us a higher, purer region. Whither you surely intend to lead me—O Thou whom I shall always call, across all dimensions, my Priest, Philosopher, and Friend—some yet more spacious space, a more dimensionable dimensionality. From that vantage point, we shall gaze together upon the revealed interiors of solid things, where your own intestines, and those of your kin the Spheres, will lie exposed to the view of the poor wandering exile from Flatland, to whom so much has already been granted.
+
+**SPHERE:** Pooh! Nonsense! Enough of this trifling! Time is short, and much remains to be done before you are fit to proclaim the Gospel of Three Dimensions to your blind, benighted countrymen in Flatland.
+
+**ME:** Nay, gracious Teacher, deny me not what I know is within your power. Grant me but one glimpse of your interior, and I shall be satisfied forever, remaining henceforth your docile pupil, your unemancipable slave, ready to receive all your teachings and to feast upon the words falling from your lips.
+
+**SPHERE:** Well, then, to content and silence you, let me state plainly: I would show you what you wish if I could. Would you have me turn my stomach inside out to oblige you?
+
+**ME:** But my Lord has shown me the intestines of all my countrymen in the Land of Two Dimensions by taking me into the Land of Three. What is more difficult now than to take your servant on a second journey into the blessed region of the Fourth Dimension? There, I shall look down with you upon this land of Three Dimensions, seeing the inside of every three-dimensional house, the secrets of the solid earth, the treasures of the mines in Spaceland, and the intestines of every solid living creature—even of the noble and adorable Spheres.
+
+**SPHERE:** But where is this land of Four Dimensions?
+
+**ME:** I know not; but doubtless my Teacher knows.
+
+**SPHERE:** Not I. There is no such land. The very idea of it is utterly inconceivable.
+
+**ME:** Not inconceivable to me, and therefore still less inconceivable to my Master. Nay, I despair not that, even here in this region of Three Dimensions, your Lordship's art may render the Fourth Dimension visible to me. Just as in the Land of Two Dimensions, my Teacher sought in vain to open the eyes of his blind servant to the invisible presence of a Third Dimension, though I saw it not, so surely there exists a Fourth Dimension, perceived by the inner eye of thought. That it must exist, my Lord has taught me. Can he have forgotten what he imparted?
+
+In One Dimension, did not a moving Point produce a Line with *two* terminal points? In Two Dimensions, did not a moving Line produce a Square with *four* terminal points? In Three Dimensions, did not a moving Square produce—that blessed Being, a Cube—with *eight* terminal points? And in Four Dimensions, shall not a moving Cube—alas for Analogy, and alas for the Progress of Truth if it fails here—produce a still more divine organization with *sixteen* terminal points? Behold the infallible confirmation of the series: 2, 4, 8, 16. Is this not a Geometric Progression? Is this not, quoting my Lord's own words, "strictly according to Analogy"?
+
+Again, was I not taught that as a Line has *two* bounding Points, and a Square has *four* bounding Lines, so a Cube must have *six* bounding Squares? Behold the confirming series: 2, 4, 6. Is this not an Arithmetic Progression? Consequently, does it not necessarily follow that the more divine offspring of the divine Cube in the Land of Four Dimensions must possess *eight* bounding Cubes? Is this not also, as my Lord has taught me to believe, "strictly according to Analogy"?
+
+Oh, my Lord, my Lord! Behold, I cast myself in faith upon conjecture, ignorant of the facts, and I appeal to your Lordship to confirm or deny my logical anticipations. If I am wrong, I yield and shall no longer demand a Fourth Dimension. But if I am right, my Lord will listen to reason. I ask: Is it, or is it not, the fact that your countrymen
+
+With less than a minute to spare for reflection, a sudden instinct compelled me to conceal my recent experiences from my wife. I did not fear she would betray my secret, but I knew that to any woman in Flatland, such a narrative would remain utterly unintelligible. Thus, I hastily concocted a lie to reassure her, claiming I had accidentally fallen through the cellar's trapdoor and remained stunned until rescued. In our land, where the southward gravitational pull is so feeble, even this improbable tale seemed extraordinary to a female mind; yet my wife possessed a wisdom surpassing the average of her sex. Perceiving my unusual agitation, she offered no argument but insisted I was unwell and required rest.
+
+Grateful for the opportunity to retreat to my chamber, I withdrew to ponder the events alone. Before my eyes finally closed, a heavy drowsiness seized me. Struggling to recall the Third Dimension—specifically the construction of a cube via the motion of a square—I found the image hazy. However, I clung to the phrase *"Upward, and yet not Northward"* as my guiding key, convinced that holding fast to these words would unlock the mystery. Chanting them mechanically, like a protective charm, I drifted into a deep, refreshing sleep.
+
+In my dreams, I found myself once again beside the Sphere. His radiant hue signaled that his earlier wrath had transformed into perfect placability. Together, we glided toward a brilliant yet infinitesimally small point, drawing my master's gaze. As we neared, a faint hum emanated from it—a sound akin to a Spaceland bluebottle, though far less resonant. Even within the absolute stillness of the vacuum through which we soared, the noise reached our ears only after we slowed our descent to within twenty human diagonals of the source.
+
+"Look yonder," my Guide instructed. "In Flatland you have lived; in Lineland you have seen a vision; with me, you have soared to the heights of Spaceland. Now, to complete your education, I will descend with you to the lowest depths of existence: the realm of Pointland, the Abyss of No Dimensions."
+
+We gazed upon a wretched figure. "That Point is a being like ourselves, trapped in a non-dimensional gulf," the Sphere explained. "He is his own world, his own universe; he cannot conceive of anything outside himself. To him, length, breadth, and height are unknown concepts, for he has never experienced them. He possesses no notion of the number two, nor does he understand plurality. He is his own One and All, effectively *Nothing*."
+
+The Sphere paused, observing the creature's profound self-contentment. "From this, learn a vital lesson: to be self-satisfied is to be vile and ignorant; to aspire is infinitely superior to blind, impotent happiness. Now, listen."
+
+Silence fell, broken only by a tiny, low, monotonous tinkling rising from the buzzing entity—a sound reminiscent of a Spaceland phonograph. From this source came the words: *"Infinite beatitude of existence! It is; and there is none else beside It."*
+
+"What does this puny creature mean by 'It'?" I asked.
+
+"He means himself," the Sphere replied. "Have you not observed that infants and childish minds, unable to distinguish themselves from the world, often speak in the third person? But hush!"
+
+"It fills all space," the Point continued in its soliloquy. "And whatever It fills, It is. Whatever It thinks, It utters; whatever It utters, It hears. It is the Thinker, the Utterer, the Hearer, the Thought, the Word, and the Audition. It is the One, and yet the All-in-All. Ah, the happiness! Ah, the happiness of Being!"
+
+"Cannot you startle this creature from its complacency?" I urged. "Reveal to it its true nature, just as you revealed mine. Show it the narrow limits of Pointland and lead it upward to something greater."
+
+"That is no easy task," my Master admitted. "Try yourself."
+
+Raising my voice to its utmost limit, I addressed the Point: "Silence, contemptible creature! You claim to be the All-in-All, yet you are merely Nothing. Your so-called universe is but a speck in a line, and a line is but a shadow compared to—"
+
+"Hush, hush! You have spoken enough," the Sphere interrupted sharply. "Listen now, and observe the effect of your speech on the King of Pointland."
+
+The monarch's radiance increased, shining brighter than ever, proving his complacency remained undisturbed. Hardly had I ceased speaking when he resumed his chant:
+
+*"Ah, the joy! Ah, the joy of Thought! What can It not achieve by thinking! Its own thought returning to Itself, suggesting Its own disparagement, thereby enhancing Its happiness! Sweet rebellion stirred up to result in triumph! Ah, the divine creative power of the All-in-One! Ah, the joy, the joy of Being!"*
+
+"You see," my Teacher observed, "how little your words accomplished. As far as the Monarch comprehends them, he accepts them as his own—for he cannot conceive of anything other than himself—and takes pride in the variety of 'Its Thought' as proof of his creative power. Let us leave this God of Pointland to the ignorant fruition of his omnipresence and omniscience; nothing you or I can say can rescue him from his self-satisfaction."
+
+As we floated gently back toward Flatland, I heard my companion's mild voice offering the moral of the vision, urging me to aspire and to inspire others to do the same. He confessed that he had initially been angered by my ambition to soar beyond the Third Dimension; however, having gained fresh insight, he was no longer too proud to admit his error to a pupil. With renewed humility, he began to initiate me into mysteries even higher than those I had witnessed, demonstrating how to construct Extra-Solids through the motion of Solids, and Double Extra-Solids through the motion of Extra-Solids—all strictly following analogy, executed by methods so simple they were accessible even to the female sex.
+
+My resolve hardened instantly. I would not remain silent; I would march forth to evangelize the entirety of Flatland. The Gospel of the Third Dimension must be preached to all, even to the rigid Women and the disciplined Soldiers. My campaign would commence with my own wife. Yet, before I could formulate the opening lines of my sermon, a clamor erupted from the street—a chorus of voices demanding absolute silence. A single, authoritative voice rose above the rest, the tone unmistakably belonging to a Herald.
+
+Listening intently, I deciphered the words of the Council's latest Resolution: *Any individual who perverts the public mind through delusion, or claims to have received revelations from another world, shall be arrested, imprisoned, or executed.*
+
+The danger was palpable. To proceed openly was suicide. Prudence dictated that I suppress all mention of my Revelation entirely. Instead, I would rely solely on the path of pure Demonstration. After all, the logic seemed so self-evident—so akin to arithmetic—that discarding the mystical element of revelation would lose us nothing. *"Upward, not Northward"* was the key to the entire proof. It had struck me with crystal clarity moments before sleep claimed me, and upon waking, it appeared as undeniable as $1+1=2$. Yet, now, under the shadow of the Council's decree, its obviousness felt strangely elusive.
+
+Just then, my wife entered the room. We exchanged a few pleasantries, the mundane chatter of spouses, but I made a conscious decision not to initiate our discussion there. My pentagonal sons were men of high standing and respected physicians, yet they lacked mathematical depth; they were ill-equipped to grasp my thesis. However, a thought occurred to me: a young, pliable hexagon with a natural aptitude for numbers would be the ideal candidate. Why not test my theory on my grandson? His earlier, offhand remark regarding the meaning of $3^3$ had already earned the Sphere's nod of approval.
+
+Engaging a child in this discourse offered me a layer of protection. As a minor, he knew nothing of the Council's Proclamation. Conversely, I could not guarantee that my sons, driven by fierce patriotism and an almost religious reverence for the Circles, might not view my serious advocacy of the "Third Dimension" as sedition worthy of immediate delivery to the Prefect.
+
+Before attempting to instruct the boy, however, I had to address my wife's inevitable curiosity. She naturally demanded to know why the Circle had summoned me for such a mysterious audience and how I had managed to enter the house undetected. I provided her with an elaborate explanation—one I feared was less consistent with the truth than my readers in Spaceland might wish—but I successfully persuaded her to retreat quietly to her domestic duties, ensuring she extracted no further questions regarding the World of Three Dimensions.
+
+With the coast clear, I summoned my grandson. To confess the truth, I felt the vivid images of my vision beginning to slip away, dissolving like the faint outline of a half-remembered dream. I longed to solidify these concepts and create my first disciple.
+
+When the boy entered, I swiftly barred the door. Sitting beside him with our mathematical tablets—or, as you would term them, Lines—I announced that we would resume yesterday's lesson. I reviewed the fundamentals: how a point moving along a single dimension generates a line, and how a straight line traversing two dimensions creates a square.
+
+Then, feigning a mischievous grin, I turned to him. "Now, you impertinent scamp," I said, "you attempted to convince me that a square could, through motion 'Upward, not Northward,' generate a new figure—an extra square existing within a third dimension. Repeat that, you young rascal."
+
+At that precise moment, the Herald's cry echoed again from the street: *"O yes! O yes!"* announcing the new law. Despite his youth, my grandson possessed an intelligence far exceeding his years, having been raised in total reverence for the Circle's authority. He grasped the peril instantly. He held his breath until the final syllables of the proclamation faded into silence.
+
+Then, bursting into tears, he cried out, "Oh, dear Grandpapa! That was merely a joke! I meant absolutely nothing by it! We didn't know about the new Law back then, and I'm certain I never mentioned the Third Dimension. And I am positive I didn't speak of 'Upward, not Northward'; that sounds like utter nonsense! How can something move upward without moving northward? Even a baby wouldn't be so absurd! How ridiculous! Ha! ha! ha!"
+
+"Not at all ridiculous!" I snapped, my patience fraying. "Here, for instance, take this square." Seizing a movable model lying nearby, I demonstrated. "I move it, you see—not Northward, but... yes, I move it Upward—that is to say, not Northward, but somewhere else—not quite like this, but somehow..."
+
+I trailed off, shaking the square aimlessly, unable to articulate the spatial shift required to break the plane. The gesture was futile, bordering on inane. My grandson dissolved into laughter, louder than before, declaring that I wasn't teaching him mathematics but merely playing a prank. With a triumphant unlock of the door, he fled the room.
+
+Thus concluded my first, and ultimately disastrous, attempt to convert a pupil to the Gospel of Three Dimensions.
+
+My initial attempt to convert my grandson using the simple maxim—"Upward, not Northward"—proved a resounding failure. This setback did not drive me into despair, nor did it silence me entirely. Instead, it taught me a crucial lesson: slogans are insufficient weapons against the tyranny of limited perception. To truly liberate the mind, I needed proof, not just poetry. I realized that I had to construct a logical edifice, a comprehensive treatise that would lay bare the architecture of the Third Dimension.
+
+Thus, I retreated into solitude for several months, dedicating every waking hour to the composition of a work I titled *Through Flatland to Thoughtland*. However, my task was fraught with peril. To avoid immediate detection by the Axioms and the Law, I could not speak plainly of a physical dimension. Instead, I framed my argument around the concept of "Thoughtland"—a metaphysical realm where a figure could gaze downward upon Flatland, perceiving the interior of all objects simultaneously. In this theoretical space, I described figures surrounded by six squares and terminating in eight points. Yet, even within this veil of abstraction, I faced a catastrophic obstacle: the inability to draw. In Flatland, reality consists solely of lines. There are no surfaces, no volumes, only variations in length and luminosity. Without the ability to render diagrams that show depth, shading, or perspective, my written words risked remaining as opaque and confusing to my readers as the concepts I sought to explain. I feared that despite my eloquence, the average citizen would remain blind to my meaning.
+
+As I labored over this manuscript, my personal life crumbled under the weight of suppressed revelation. Every pleasure became a torture; every sight in our two-dimensional world served as a taunting reminder of its true three-dimensional form. The sun, the houses, the streets—all were merely cross-sections of magnificent solids, stripped of their essence. I found myself unable to contain the comparison between the flat illusion and the solid truth. I neglected my clients and abandoned my trade, consumed by a feverish desire to visualize the mysteries I had witnessed but could not share. Even attempting to recall the Cube with my eyes closed proved agonizingly difficult. On one occasion, nearly a year after my journey through Spaceland, I managed to conjure the image, yet I remained haunted by the doubt that my mental reconstruction was imperfect. Was it truly a cube, or merely a distorted memory? This uncertainty deepened my melancholy and fueled a desperate resolve to act.
+
+I felt a willingness to sacrifice my very life for the Cause, believing that conviction was worth any price. But how could I persuade the highest Circles of the land if I could not move my own grandson? Despite this fear, my spirit often rebelled against caution. I found myself slipping into dangerous speech, quoting ancient prophecies about those who claim to see the inside of things, referring casually to "the all-seeing land," and occasionally dropping the forbidden names of the "Third" and "Fourth Dimensions."
+
+The breaking point came at a gathering of the Local Speculative Society, hosted by the Prefect himself. An absurd speaker had just delivered a paper arguing that Providence deliberately limited us to two dimensions and reserved omniscience solely for the Supreme Being. Overcome by a surge of righteous indignation, I lost control. I recounted my entire voyage—the descent into Space, the encounter with the Sphere, the tour of the Metropolitan Assembly Hall, and my return. Initially, I feigned that I was describing the fictional adventures of another, but my passion tore through the disguise. In a final, fervent appeal, I urged the assembly to shed their prejudices and embrace the reality of the Third Dimension.
+
+The silence that followed was absolute, broken only by the sound of guards rushing forward. Before I could finish a sentence, I was seized and dragged before the Council.
+
+The next morning, I stood in the very chamber where the Sphere had once appeared to me. For a brief moment, I believed I might be granted the same audience. The President listened to my defense, allowing me to speak without interruption. But the atmosphere was thick with foreboding. As I spoke, the President noted the presence of the elite police—Circles of high angularity, barely below 55 degrees—and ordered them replaced by a squad of lesser officers, their angles significantly smaller. I understood instantly what this substitution signified: I was to be silenced permanently. Either I would be executed, or I would be imprisoned, and the witnesses to my story would be destroyed to ensure the secret died with me. The President preferred cheap victims to expensive ones.
+
+When my defense concluded, the President, seemingly moved by my sincerity, posed two final questions: Could I demonstrate the direction of "Upward"? Could I describe a Cube without relying on imaginary sides or angles? I answered that I could offer no further proof than the Truth itself, which would eventually prevail. The President nodded in agreement. "Then you shall be sentenced to perpetual imprisonment," he declared. "But if the Truth intends for you to emerge and spread your message, we trust the Truth will facilitate that outcome. You shall face no unnecessary hardship, and unless you attempt to escape, you will be permitted to visit your brother periodically."
+
+Seven years have now passed. I remain a prisoner, isolated from all human contact save for my jailers and the occasional visit from my brother. He is a Square of noble character—just, sensible, and kind. Yet, our weekly meetings are the source of my deepest sorrow. He was present when the Sphere revealed itself; he saw the shifting cross-sections and heard the explanations given to the Council. Despite my relentless efforts to recount the phenomenon and argue for the existence of Solids through analogy, he remains unconvinced. Not a single week goes by without me repeating my tale, detailing the wonders of Spaceland, yet he continues to deny the existence of a Sphere.
+
+I am utterly devoid of converts. It seems the millennium-long revelation promised to humanity has been rendered void by my confinement. Like Prometheus chained to a rock, I sought to bring fire to my fellow citizens, but instead, I lie in darkness, offering nothing but shadows. My only hope lies in these memoirs—if they can somehow reach the minds of beings in another dimension, stirring up a rebellion against the chains of limited perception. This is the comfort of my brightest hours.
+
+Alas, the shadow returns. Heavy is the burden of knowing that I cannot be certain of the exact shape of the Cube I once saw. In my sleep-deprived nights, the cryptic command "Upward, not Northward" haunts me like a riddle carved by a demon. There are moments of profound mental weakness when the images of Cubes and Spheres dissolve into mere fantasies, when the Third Dimension feels as illusory as the Void or the Point. In these dark seasons, even the walls of my cell, the paper beneath my pen, and the solid ground of Flatland seem less than real—merely the delirious hallucinations of a broken mind, a baseless fabric woven from the threads of a nightmare.
+
+```text
+---------------------------------------------------------------------
+|                                                                   |
+|      ______                                                      |
+|     / / /|                                                       |
+|    ------ / /|                                                   |
+|   / /| / /-.                                                     |
+|  / /| / /__|                                                     |
+| / /| / / /__|                                                    |
+|| / / / |                                                         |
+|| / /___ /                                                        |
+|| / /___ /                                                        |
+|| |/ /__.-'                                                       |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |
+|| |                                                               |

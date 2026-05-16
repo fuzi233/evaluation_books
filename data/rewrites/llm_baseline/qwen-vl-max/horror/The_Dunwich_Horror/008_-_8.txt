@@ -1,0 +1,61 @@
+8
+
+In a quiet, book-lined room in Arkham, a horror far more profound than any physical manifestation was unfolding behind closed doors. The strange manuscript—Wilbur Whateley’s diary—had arrived at Miskatonic University under circumstances too grim for speculation. Delivered for translation, it had baffled scholars of every language, ancient and modern. Its alphabet bore a vague resemblance to the thickly shaded Arabic of Mesopotamia, yet no known script matched it. Experts concluded it was an artificial cipher—a constructed alphabet meant to disguise meaning, not merely encode it. But even the most advanced cryptographic methods failed. No key emerged. No pattern held.
+
+The books seized from Whateley’s quarters were equally troubling: ancient, arcane, filled with symbols that hinted at forbidden knowledge. One heavy tome, bound with iron, used a script unlike any other—closer to Sanskrit, but warped into something alien. These texts offered no help in unlocking the diary. They only deepened the dread.
+
+Dr. Armitage took full charge of the manuscript. Not only did he possess a rare grasp of obscure languages, but he also carried a personal burden—the weight of what Whateley might have left behind. He suspected the alphabet was not just coded, but esoteric—a secret system passed down through cults older than memory, heirs to the sorcery of the Saracenic world. Yet he dismissed origin as secondary. If the text was a cipher, its underlying language would likely be English. Why else write so much, unless in one’s own tongue? Only certain ritual phrases might deviate.
+
+He approached the manuscript with the assumption that it was English beneath the code. And he prepared accordingly. For weeks, he immersed himself in the dark arts of cryptography—Trithemius’ *Poligraphia*, Porta’s *De Furtivis Literarum Notis*, Vigenère’s *Traité des Chiffres*, Falconer’s *Cryptomenysis Patefacta*, Davys and Thicknesse, Blair, von Marten, Klüber’s *Kryptographik*. He studied them by night, then attacked the manuscript in bursts of desperate concentration.
+
+Slowly, patterns emerged. The cipher wasn’t simple substitution. It was layered—like a multiplication table of letters, keyed by unknown words. The older treatises proved more useful than modern ones. Armitage began to believe the code was ancient, preserved through generations of occultists who guarded their secrets in silence.
+
+He made progress. Then stalled. Progress again. Then stumbled back. By late August, he was close. On September 2nd, the final barrier collapsed.
+
+That evening, Dr. Armitage read Wilbur Whateley’s first coherent passage.
+
+It was a diary—yes—and written in a voice both childish and terrifying. The grammar was crude, the syntax broken, but the content… the content was beyond comprehension.
+
+The entry was dated November 26, 1916. The writer was three and a half years old, though he looked like a boy of twelve.
+
+*Today learned the Aklo for the Sabaoth,* it read, *which did not like, it being answerable from the hill and not from the air. That upstairs more ahead of me than I had thought it would be, and is not like to have much earth brain. Shot Elam Hutchins's collie Jack when he went to bite me, and Elam says he would kill me if he dast. I guess he won't. Grandfather kept me saying the Dho formula last night, and I think I saw the inner city at the 2 magnetic poles. I shall go to those poles when the earth is cleared off, if I can't break through with the Dho-Hna formula when I commit it. They from the air told me at Sabbat that it will be years before I can clear off the earth, and I guess Grandfather will be dead then, so I shall have to learn all the angles of the planes and all the formulas between the Yr and the Nhhngr. They from outside will help, but they can not take body without human blood. That upstairs looks it will have the right cast. I can see it a little when I make the Yoorish sign or blow the power of Ibn Ghazi at it, and it is near like them at May Eve on the Hill. The other face may wear off some. I wonder how I shall look when the earth is cleared and there are no earth beings on it. He that came with the Aklo Sabaoth said I may be transfigured, there being much of outside to work on.*
+
+Armitage sat frozen. His hands shook. Sweat soaked his shirt. He did not leave the desk. All night, he read, page after page, deciphering as fast as he could. He called his wife—told her he wouldn’t be home. When she brought breakfast, he barely ate. The words burned into him: *earth cleared off.* *They from outside.* *No earth beings.* *Transfigured.*
+
+Lunch came. Dinner followed. He consumed almost nothing. His mind raced—not with logic, but with terror. The diary spoke of things not of this world. Of entities from beyond space, time, and matter. Of rituals. Of sacrifices. Of a coming end.
+
+By the second night, he slept—only to wake from nightmares worse than the truth he’d uncovered. On September 4th, Professor Rice and Dr. Morgan visited. They left pale, trembling, silent.
+
+Armitage tried to sleep that night—but only fitfully. The next day, he returned to the manuscript, taking notes frantically. He scribbled furiously, copying passages, comparing codes, sketching diagrams. In the small hours, he dozed in his office chair, but woke screaming, tangled in visions of black towers rising from the ground, of stars shifting in the sky, of something vast stirring beneath the earth.
+
+His physician, Dr. Hartwell, came in the morning. Insisted he stop. Armitage refused. “It’s vital,” he whispered. “I must finish. I’ll explain later.”
+
+That evening, as twilight fell, he finished reading. He collapsed, exhausted, eyes hollow. His wife brought dinner. He was half-unconscious, but when she glanced at his notes, he gasped—“Don’t look!”—and snatched the papers up. He sealed them in an envelope, tucked it into his coat pocket.
+
+He managed to walk home. Hartwell was summoned immediately. As the doctor helped him to bed, Armitage muttered over and over: *“But what, in God’s name, can we do?”*
+
+He slept, but not peacefully. Fevered dreams plagued him. He called for the *Necronomicon*, for Remigius’ *Dæmonolatreia*. He raved about destroying a boarded-up farmhouse in Dunwich. He screamed about an elder race—beings from another dimension—intent on stripping the Earth from its orbit, dragging it into a plane of existence beyond time, where it had once fallen billions upon billions of years ago.
+
+“They’re coming,” he cried. “They want to strip the world. Stop them! Stop them!”
+
+He claimed the Whateleys had opened the door. That the worst was still hidden. That something had been left behind—something not yet fed. “It hasn’t been fed since August 2nd,” he moaned. “When Wilbur died. At that rate…”
+
+But Armitage was strong for seventy-three. The fever broke by Friday. He woke clear-headed, but shaken. A terrible responsibility pressed upon him.
+
+On Saturday, he went to the library. Summoned Rice and Morgan. Together, they spent the day and night in frantic study. Books were pulled from hidden shelves—texts on summoning, banishment, dimensional rifts. Diagrams were copied. Formulas scrawled across pages. There was no skepticism now. They had seen Whateley’s corpse—twisted, unnatural, with eyes that seemed to burn. No man could doubt the diary then.
+
+Should they alert the state police? They debated. But decided against it. How could ordinary men understand? How could they believe?
+
+The conference ended without a plan. But Armitage worked through Sunday—comparing formulas, mixing chemicals from the lab. The more he read, the more he doubted any substance could destroy what Whateley had unleashed. The entity was not flesh. Not blood. Not matter. It was something older, deeper—something that threatened the very fabric of reality.
+
+Monday was more of the same. Tuesday, he had a plan. He would travel to Dunwich within days. He would confront whatever remained.
+
+Then, on Wednesday, the news came.
+
+Tucked in a corner of the *Arkham Advertiser*, a joke from the Associated Press: *“Dunwich Bootleg Whisky Produces Record-Breaking Monster.”* A local oddity, they said. A curiosity. A beast of myth.
+
+Armitage stared. His breath caught. He dialed Rice and Morgan.
+
+That night, they met again. And the next day, preparations began. Armitage knew he was meddling with powers beyond reason. But he also knew there was no alternative. The horror was real. It was growing. And it was coming.
+
+He would act. Even if it cost him his life.

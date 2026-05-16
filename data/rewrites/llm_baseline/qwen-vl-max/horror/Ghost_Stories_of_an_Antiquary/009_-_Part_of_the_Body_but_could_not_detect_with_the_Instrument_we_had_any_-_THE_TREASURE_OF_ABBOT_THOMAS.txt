@@ -1,0 +1,139 @@
+For centuries, whispers have lingered among the canons of Steinfeld Abbey—ghosts of a secret buried not in stone, but in silence. They speak of Abbot Thomas von Eschenhausen, a man of great piety and greater pride, who, in the prime of his life, concealed within the very walls of his own monastery a hoard of gold so vast it could buy kingdoms. Though many have searched—digging through foundations, prying behind altars, even breaking into crypts—none has found it. And yet, the tale persists.
+
+It is said that when questioned about the treasure’s location, Abbot Thomas would only laugh and reply: “Job, John, and Zechariah will tell either you or your successors.” Sometimes he added, with a glint in his eye, that he bore no ill will to whoever might uncover it. The words were spoken lightly, but they carried weight—like a riddle wrapped in a smile.
+
+Abbot Thomas was no mere monk; he was a builder, a patron of art, a man whose name still echoes in the ruins of the abbey. He adorned the east window of the south aisle with stained glass of astonishing beauty—figures painted on glass so vivid they seemed to breathe. His effigy and arms remain there, carved above the glass, a silent testament to his legacy. He restored the abbot’s lodging, dug a well in the courtyard, and lined it with marble so finely carved it gleamed like dawn. He died suddenly at seventy-two, in 1529—a man whose final act may have been not prayer, but concealment.
+
+The antiquary, Mr. Somerton, first encountered this story while poring over *Sertum Steinfeldense Norbertinum*, a rare and rambling chronicle of the Premonstratensian abbey published in 1712 by Christian Albert Erhard. He translated the passage with care, then set aside the book—but not before being struck by something peculiar.
+
+He had long sought to trace the origins of certain stained-glass panels now installed in a private chapel belonging to Lord D——. Three figures dominated one window: Job, John the Evangelist, and Zechariah. Each held a scroll inscribed with a phrase that did not match the Vulgate.
+
+Job’s read: _Auro est locus in quo absconditur_ —“There is a place for gold where it is hidden.”
+John’s: _Habent in vestimentis suis scripturam quam nemo novit_ —“They have on their garments a writing which no man knows.”
+Zechariah’s: _Super lapidem unum septem oculi sunt_ —“Upon one stone are seven eyes.”
+
+The third was a direct quote from scripture. But the others? Altered. Deliberately altered.
+
+Somerton felt a chill. These were not random choices. They were clues.
+
+And then came the discovery: beneath the black borders of each figure’s robe—hidden under layers of pigment—were faint yellow letters, obscured by time and dust. Only when a servant used a rough broom to clean the glass did the stains begin to reveal themselves. Somerton scraped gently, revealing an inscription beneath each robe—three lines of jumbled letters:
+
+Thirty-eight letters in each—marked by Roman numerals scratched into the glass. A cipher. A message meant to be found, but not understood—until now.
+
+Back in England, Somerton worked late into the night, tracing, measuring, testing every possible method of decryption. He consulted ancient texts on cryptography—Trithemius’s *Steganographia*, Selenius’s *Cryptographia*, Bacon’s *De Augmentis Scientiarum*. Nothing fit. Then he returned to the figures themselves.
+
+Job: left hand holds a scroll; right hand raised, one finger pointing upward.
+John: left hand holds a book; right hand raised in blessing, two fingers extended.
+Zechariah: left hand holds a scroll; right hand raised, three fingers pointed skyward.
+
+One. Two. Three.
+
+He tested the idea: skip one letter after the first, two after the second, three after the third—and repeat.
+
+The result, once deciphered, was staggering:
+
+> **Decem millia auri reposita sunt in puteo in atrio...**
+
+Ten thousand pieces of gold lie hidden in a well in the court.
+
+He gasped. The well—the one Abbot Thomas had built himself. The one described in the *Sertum*. The one now lost beneath centuries of neglect.
+
+He knew what he must do.
+
+Mr. Gregory, rector of Parsbury, stepped out before breakfast on a crisp autumn morning, intent on greeting the postman and breathing in the cool air. His children ran beside him, chattering. But the letter that arrived—foreign-stamped, addressed in a rough English hand—was not for them.
+
+It was from William Brown, Somerton’s valet.
+
+> *Honoured Sir,*
+> *I am in a great anxiety about Master. I write at is Wish to beg you Sir if you could be so good as Step over. Master Has add a Nastey Shock and keeps His Bedd. I never Have known Him like this but No wonder and Nothing will serve but you Sir. Master says would I mintion the Short Way Here is Drive to Cobblince and take a Trap. Hoping I Have maid all Plain, but am much Confused in Myself what with Anxiatey and Weakfulness at Night. If I might be so Bold Sir it will be a Pleasure to see a Honnest Brish Face among all These Forig ones.*
+>
+> *I am Sir Your obedt Servt*
+> *William Brown*
+>
+> *P.S.—The Village for Town I will not Turm. It is name Steenfeld.*
+
+Gregory read it twice. Then again. A shock passed through him. Somerton—ill? In Germany? In Steinfeld?
+
+He rushed back to the house, packed a bag, caught the train to London, secured a cabin to Antwerp, and boarded the Coblentz train. By dusk, he stood in the dim light of a village inn, the only one worth the name in Steinfeld.
+
+Brown met him at the door, pale, trembling, dressed in tweed instead of livery. His relief was palpable.
+
+“Master’s better,” he whispered, “but he’s had a dreadful time. You’re the only one he wants.”
+
+They climbed the stairs to Somerton’s room. The door was closed. As Gregory reached for the handle, a cry tore from within.
+
+“In God’s name, who is that?”
+“Brown, is it?”
+
+“Yes, sir—me, sir, and Mr. Gregory.”
+
+A groan of relief echoed through the room.
+
+Inside, the chamber was darkened against the afternoon sun. Somerton sat up in bed, face drawn, sweat on his brow. He stretched a trembling hand toward Gregory.
+
+“Better for seeing you, my dear Gregory,” he murmured.
+
+After a few minutes, he began to recover. He ate dinner, spoke with confidence, even joked. But then, his voice dropped.
+
+“There’s one thing,” he said, gripping Gregory’s arm. “I must ask you to do something. Don’t ask why. Not yet. It’s safe. Brown will show you tomorrow. Just… put something back. Keep it there. That’s all.”
+
+Gregory nodded. “I’ll do it.”
+
+Somerton smiled weakly. “You won’t regret it. Tomorrow evening, I’ll tell you everything.”
+
+That night, Gregory lay awake. Once, twice—he thought he heard fumbling at the bottom of his door. A hand probing the lock. But when he listened, nothing. Only the wind.
+
+The next morning, Brown led Gregory through the quiet streets of Steinfeld. They walked past the ruined abbey, past the church stripped of its relics, until they reached a low stone wall near the old courtyard.
+
+“Here,” Brown said, voice barely above a whisper.
+
+On a step, half-hidden beneath moss and dirt, lay a wooden box—sealed, weathered, untouched for centuries.
+
+“This,” Brown said, “is what we brought back. Master told us to hide it here, just before he fell ill. Said it was safer than carrying it.”
+
+Gregory looked at the box. Then at Brown. “Why?”
+
+Brown shook his head. “He wouldn’t say. But he said you’d understand when you saw it.”
+
+They placed the box back on the step, exactly where it had lain. Then they returned to the inn.
+
+That evening, Somerton was stronger. He sat upright, though still pale. Brown stood nearby, silent.
+
+“I’ve told you the beginning,” Somerton said. “Now, the rest.”
+
+He explained how he had cracked the cipher. How the three figures—Job, John, Zechariah—had been chosen not for doctrine, but for numbers. How the well in the courtyard was the key. How he had come to Steinfeld not just to find the treasure, but to return it—to restore balance to a man who had hidden more than gold.
+
+“But when I reached the well,” he continued, “I found it blocked. And beneath the stones… a skeleton. A man in monk’s robes. His hands were clasped over a small chest. Empty.”
+
+He paused.
+
+“I didn’t know what to think. Then I remembered the last line of the cipher. It ended mid-sentence. ‘In puteo in atrio…’—but the word after *atrio* was missing. What if the treasure wasn’t in the well? What if it was *above*?”
+
+He had searched the well’s rim. Found nothing. Then, in the darkness, he noticed a loose flagstone. Beneath it—another box. Smaller. Metal. Sealed.
+
+Inside: a single gold coin, stamped with the seal of Abbot Thomas. And a note, written in Latin:
+
+> *Non ego sum qui te occultavi, sed ille qui tibi dedit.*
+> *I am not the one who hid you, but he who gave you.*
+
+Somerton froze.
+
+Then he realized: the treasure was never gold. It was knowledge. The cipher. The message. The truth.
+
+And the man in the well? A guard. A keeper. A monk who had died protecting the secret.
+
+But when Somerton touched the coin, the ground trembled. A cold breath washed over him. The candle flickered. And in the shadows, a shape moved—silent, unseen, but unmistakably *there*.
+
+He fled.
+
+That night, he dreamed of a man in black robes, standing at the edge of the well, watching him.
+
+When he woke, he knew he could not stay. He sent for Gregory. He asked him to return the box—not because it contained gold, but because it contained *proof*. Proof that the treasure was not wealth, but memory. And that some secrets should never be broken.
+
+And so, the box was returned.
+
+But the well remains sealed.
+
+And sometimes, on quiet nights, travelers swear they hear a whisper from beneath the stone:
+
+> *Job, John, and Zechariah… will tell you…*

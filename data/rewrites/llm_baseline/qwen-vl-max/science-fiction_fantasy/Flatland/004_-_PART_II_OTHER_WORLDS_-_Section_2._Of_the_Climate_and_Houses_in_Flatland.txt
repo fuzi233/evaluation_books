@@ -1,0 +1,24 @@
+Like your world, ours is marked by four cardinal directions: North, South, East, and West. But unlike you, we have no sun or stars to guide us through the skies. Without celestial bodies, our method of orientation is entirely unique. By a natural law, all matter in Flatland is drawn toward the South—a subtle but constant pull that shapes our lives. In temperate zones, this force is faint—so light that even a healthy woman can walk several furlongs northward without struggle. Yet it’s strong enough to serve as a compass across most of our land.
+
+Rain, which falls at regular intervals, always comes from the North. This steady northerly downpour offers another clue, helping travelers orient themselves. In cities, houses are built with their walls aligned north-south, so roofs can shield against the rain. In rural areas, where no buildings stand, the trunks of trees—growing upright and often aligned with the prevailing forces—offer some direction. Together, these cues make navigation manageable, though not always simple.
+
+Still, in the milder regions where the southern pull is nearly imperceptible, I’ve found myself stranded on endless plains, utterly lost. With no structures or trees in sight, I’ve had to wait hours—sometimes days—for the rain to fall, knowing its arrival would reveal the North. The southward pull affects the weak, elderly, and especially delicate women far more than strong men. Thus, proper etiquette demands that when encountering a lady on the road, one must yield her the northern side of the path. Not always easy, particularly when unwell or in unfamiliar terrain where distinguishing directions is itself a challenge.
+
+Our homes have no windows. Light does not come from any visible source—it is everywhere, constant and unchanging, both day and night, indoors and out. Where it comes from, we do not know. In ancient times, scholars wrestled with this mystery: “What is the origin of light?” Many sought answers, but none succeeded. Instead, they ended up in asylums, driven mad by their own speculations. After repeated failures to curb such inquiries through taxation, the government finally banned them outright. Today, questioning the nature of light is illegal.
+
+And yet—I alone in Flatland—know the truth. I understand the source of light, and how it flows into our world from beyond. But my knowledge cannot be shared. No one here can grasp it. I am mocked, ridiculed, called insane—though I hold the only true understanding of Space, of dimensions, of the hidden world from which light pours into ours. But let me pause this sorrowful tale and return to the subject at hand: our dwellings.
+
+The standard house in Flatland is shaped like a pentagon—five-sided, with two northern sides forming the roof. These roof edges usually lack doors. On the east side, a small entrance serves the women; on the west, a larger one for men. The southern side, the floor, typically has no door at all. Square and triangular homes are forbidden, and for good reason.
+
+The angles of squares—and especially equilateral triangles—are sharper than those of pentagons. And since the lines of inanimate objects, like houses, appear dimmer than those of living beings, there’s real danger. A careless traveler might collide with a sharp corner and suffer serious injury. As early as the eleventh century, triangular houses were outlawed across the land—except for fortresses, armories, barracks, and other state buildings, where such sharpness is intentional and access controlled.
+
+Squares remained legal for centuries, though taxed heavily to discourage their use. But about three hundred years later, laws changed: in towns with over ten thousand inhabitants, only pentagonal homes could be built, due to safety concerns. Public wisdom soon followed. Even in remote villages, pentagonal construction now dominates. Only in the most isolated farming regions might one still find an old square house—rare relics of a forgotten past.
+
+[ASCII approximation follows]
+/ \
+/ \
+/ \
+/ \
+\_ / _/
+Men's door _ Women's door _
+/ \____________/

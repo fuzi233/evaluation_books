@@ -1,0 +1,23 @@
+I call our world Flatland—not because we name it so, but to help you, my readers who dwell in the boundless realm of Space, grasp the true nature of our existence. Picture a vast, endless sheet of paper upon which geometric shapes—Lines, Triangles, Squares, Pentagons, Hexagons, and others—move freely across its surface. Yet they cannot rise above or sink below it, much like shadows cast upon a wall—but solid, with glowing edges. This is the land I know, and the world of my people.
+
+Once, I would have called this my universe. But now, after glimpsing higher dimensions, I see that our world is but a slice of something far greater.
+
+In such a realm, there can be no such thing as what you call “solid” objects. No depth, no volume—only two-dimensional forms sliding across a flat plane. You might imagine that we could at least tell apart the different figures by sight—recognizing a Triangle from a Square, or a Pentagon from a Circle. But you would be mistaken. To us, nothing appears as more than a line.
+
+Let me explain why. Place a penny on your table, then look down at it from above. It appears round. Now slowly lower your eye until it reaches the edge of the table—bringing yourself closer to the perspective of a Flatlander. As you do, the penny will grow oval, then elongated, until finally, when your eye is level with the table’s surface, it becomes indistinguishable from a straight line. The same happens if you hold up a cut-out Triangle or Square: viewed from the side, it too collapses into a mere line.
+
+Take, for instance, an equilateral Triangle—a respectable Tradesman in our society. Figure 1 shows how he looks when seen from above. Figures 2 and 3 depict him as you’d see him from near the table’s edge. And when your eye is perfectly level with the surface—just as we perceive things in Flatland—he vanishes into a single straight line.
+
+[Illustration 1]
+[ASCII approximation follows]
+(1) __________
+(2) ___________
+(3) _________
+\ /
+--__ __--
+--- \ / -
+\/
+
+While I was visiting Spaceland, I heard sailors speak of similar experiences. When they gaze across the sea at a distant shore, they see only a gray, unbroken line along the horizon—no bays, no headlands, no angles—unless sunlight reveals them through shadow and light. That is precisely how we see one another in Flatland. A friend approaches, and all we see is a growing line; when he departs, the line shrinks. But regardless of whether he is a Triangle, Square, Pentagon, or even a Circle, he remains a line—nothing more, nothing less.
+
+You may wonder how we can possibly recognize each other under such limitations. But that mystery will unfold when I introduce you to the inhabitants of Flatland. For now, let me set that aside and turn briefly to the climate and architecture of our world.

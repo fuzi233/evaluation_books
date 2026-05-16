@@ -1,0 +1,22 @@
+As I sit here, surrounded by the familiar contours of Flatland, I am reminded of the world beyond our two-dimensional realm.  Our home, a boundless expanse of paper-like terrain, teems with life and movement.  I call it Flatland, not out of nostalgia for a bygone era, but to convey to you, dear reader, the essence of our existence.
+
+Imagine a world where shapes – lines, triangles, squares, pentagons, and hexagons – dance across the surface, unencumbered by the constraints of depth.  They glide effortlessly, their luminescent edges etched against the void, like the silhouettes of fireflies on a summer evening.  This is the world I knew before my mind expanded to encompass the vastness of Spaceland.
+
+In such a world, the concept of solidity is an oxymoron.  We cannot perceive the intricate details that define our shapes, nor can we distinguish one figure from another.  All we see is a tapestry of straight lines, a kaleidoscope of endless possibility.  But how do we navigate this seemingly barren landscape?  How do we recognize our loved ones amidst the sea of shapes?
+
+Consider a penny, placed upon a table in a higher dimension.  As you gaze upon it, it appears as a perfect circle.  But as you draw back, your perspective shifts, and the penny transforms into an oval, its contours blurring at the edges.  Finally, when your gaze aligns with the plane of the table, the penny vanishes, leaving only a straight line in its wake.  The same phenomenon occurs with any shape: a triangle, square, or polygon – they all reduce to a single, unyielding line.
+
+Our Tradesman, a stalwart equilateral triangle, exemplifies this phenomenon.  When viewed from above, he appears as a robust, three-sided figure (Fig. 1).  As your gaze descends to the level of the table, his form begins to shift, his sides stretching and compressing until, from our vantage point in Flatland, he appears as a single, unbroken line (Fig. 3).
+
+[Illustration 1]
+
+[ASCII approximation follows]
+
+
+  (1)     __________     (2)    ___________     (3)     _________
+          \        /             --__ __--                 ---
+            \    /                   -
+              \/
+
+
+In Spaceland, I've heard tell of sailors

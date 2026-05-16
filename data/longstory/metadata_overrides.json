@@ -1,0 +1,317 @@
+{
+  "adventure__King_Solomon_s_Mines": {
+    "title": "King Solomon's Mines",
+    "author": "unknown",
+    "genres": [
+      "adventure"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "adventure__The_Call_of_the_Wild": {
+    "title": "The Call of the Wild",
+    "author": "unknown",
+    "genres": [
+      "adventure"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "adventure__The_Four_Feathers": {
+    "title": "The Four Feathers",
+    "author": "unknown",
+    "genres": [
+      "adventure"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "adventure__The_Lost_Continent": {
+    "title": "The Lost Continent",
+    "author": "unknown",
+    "genres": [
+      "adventure"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "adventure__The_Swiss_Family_Robinson": {
+    "title": "The Swiss Family Robinson",
+    "author": "unknown",
+    "genres": [
+      "adventure"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "detective_fiction__The_Circular_Study": {
+    "title": "The Circular Study",
+    "author": "unknown",
+    "genres": [
+      "detective_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "detective_fiction__The_Innocence_of_Father_Brown": {
+    "title": "The Innocence of Father Brown",
+    "author": "unknown",
+    "genres": [
+      "detective_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "detective_fiction__The_Moonstone": {
+    "title": "The Moonstone",
+    "author": "unknown",
+    "genres": [
+      "detective_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "detective_fiction__The_Mystery_of_Edwin_Drood": {
+    "title": "The Mystery of Edwin Drood",
+    "author": "unknown",
+    "genres": [
+      "detective_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "detective_fiction__Trent_s_Last_Case": {
+    "title": "Trent's Last Case",
+    "author": "unknown",
+    "genres": [
+      "detective_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "historical_fiction__North_and_South": {
+    "title": "North and South",
+    "author": "unknown",
+    "genres": [
+      "historical_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "historical_fiction__Romola": {
+    "title": "Romola",
+    "author": "unknown",
+    "genres": [
+      "historical_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "historical_fiction__The_Cloister_and_the_Hearth": {
+    "title": "The Cloister and the Hearth",
+    "author": "unknown",
+    "genres": [
+      "historical_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "historical_fiction__The_Virginians": {
+    "title": "The Virginians",
+    "author": "unknown",
+    "genres": [
+      "historical_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "historical_fiction__Westward_Ho": {
+    "title": "Westward Ho!",
+    "author": "unknown",
+    "genres": [
+      "historical_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "horror__Carmilla": {
+    "title": "Carmilla",
+    "author": "unknown",
+    "genres": [
+      "horror"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "horror__Ghost_Stories_of_an_Antiquary": {
+    "title": "Ghost Stories of an Antiquary",
+    "author": "unknown",
+    "genres": [
+      "horror"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "horror__The_Beckoning_Fair_One": {
+    "title": "The Beckoning Fair One",
+    "author": "unknown",
+    "genres": [
+      "horror"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "horror__The_Dunwich_Horror": {
+    "title": "The Dunwich Horror",
+    "author": "unknown",
+    "genres": [
+      "horror"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "horror__The_Willows": {
+    "title": "The Willows",
+    "author": "unknown",
+    "genres": [
+      "horror"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "humor__Idle_Thoughts_of_an_Idle_Fellow": {
+    "title": "Idle Thoughts of an Idle Fellow",
+    "author": "unknown",
+    "genres": [
+      "humor"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "humor__My_Man_Jeeves": {
+    "title": "My Man Jeeves",
+    "author": "unknown",
+    "genres": [
+      "humor"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "humor__Paul_Kelver": {
+    "title": "Paul Kelver",
+    "author": "unknown",
+    "genres": [
+      "humor"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "humor__The_Adventures_of_Sally": {
+    "title": "The Adventures of Sally",
+    "author": "unknown",
+    "genres": [
+      "humor"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "humor__The_History_of_Pendennis": {
+    "title": "The History of Pendennis",
+    "author": "unknown",
+    "genres": [
+      "humor"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "romantic_fiction__Daniel_Deronda": {
+    "title": "Daniel Deronda",
+    "author": "unknown",
+    "genres": [
+      "romantic_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "romantic_fiction__Sense_and_Sensibility": {
+    "title": "Sense and Sensibility",
+    "author": "unknown",
+    "genres": [
+      "romantic_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "romantic_fiction__Shirley": {
+    "title": "Shirley",
+    "author": "unknown",
+    "genres": [
+      "romantic_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "romantic_fiction__The_Age_of_Innocence": {
+    "title": "The Age of Innocence",
+    "author": "unknown",
+    "genres": [
+      "romantic_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "romantic_fiction__Villette": {
+    "title": "Villette",
+    "author": "unknown",
+    "genres": [
+      "romantic_fiction"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "science-fiction_fantasy__Flatland": {
+    "title": "Flatland",
+    "author": "unknown",
+    "genres": [
+      "science-fiction_fantasy"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "science-fiction_fantasy__Lilith": {
+    "title": "Lilith",
+    "author": "unknown",
+    "genres": [
+      "science-fiction_fantasy"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "science-fiction_fantasy__The_Gods_of_Mars": {
+    "title": "The Gods of Mars",
+    "author": "unknown",
+    "genres": [
+      "science-fiction_fantasy"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "science-fiction_fantasy__The_Night_Land": {
+    "title": "The Night Land",
+    "author": "unknown",
+    "genres": [
+      "science-fiction_fantasy"
+    ],
+    "score": "0.00",
+    "premise": ""
+  },
+  "science-fiction_fantasy__The_Purple_Cloud": {
+    "title": "The Purple Cloud",
+    "author": "unknown",
+    "genres": [
+      "science-fiction_fantasy"
+    ],
+    "score": "0.00",
+    "premise": ""
+  }
+}
